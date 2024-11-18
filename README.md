@@ -1,7 +1,7 @@
 # Jupyter_Notebooks
 
 **AdClick_Gender_Classification.ipynb**
-This notebooks  contains 8 functions which are :
+This notebooks  contains 10 functions which are :
 
 1. **load_and_preprocess_data(file_path)** : It takes one argument file_path and return preprocessed data. The preprocessing involves :
 
@@ -28,6 +28,10 @@ This notebooks  contains 8 functions which are :
 7. **tune_hyperparameters(X_train, y_train, model_name)** : Perform hyperparameter tuning using GridSearchCV.
 
 8. **compare_metrics(before_metrics, after_metrics, model_name)** : Returns a bar-plot comparing the values of metrics after and before hyper-parameter tuning.
+
+9. **save_metrics_to_file(before_metrics, after_metrics, model_name, target_name, directory='./')** : Save metrics to a file with the model name in the filename
+
+10.  **save_model(pipeline, model_name, target_name, directory='./')** : Save model as .pkl files.
 
 **Model inputs**
  -For now it takes two models as input namely Naive Bayes Classifier and SVM.
