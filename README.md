@@ -21,9 +21,9 @@ This notebooks  contains 8 functions which are :
 
 4. **train_and_evaluate_pipeline(pipeline, X_train, X_test, y_train, y_test)** : Takes in 5 arguments and train and evaluate the model. It returns back predicted                                                                                                                                    values along with their probabilities and also return all the metrics accuracy, precision, recall, F1-score, roc_auc.
 
-5. **plot_confusion_matrix(y_test, y_pred, model_name,target_name, title="Confusion Matrix")**: Plot and saves the confusion matrix using seaborn before hyper-                                                                                                                                                     parameter tuning.
+5. **plot_confusion_matrix(y_test, y_pred, model_name,target_name, title="Confusion Matrix")**: Plot and saves the confusion matrix using seaborn before and after hyper-                                                                                                                                                     parameter tuning.
 
-6. **plot_roc_curve(y_test, y_proba,model_name,target_name, title="ROC Curve")**: Plot and saves the ROC curve using matplotlib before hyper-parameter tuning.
+6. **plot_roc_curve(y_test, y_proba,model_name,target_name, title="ROC Curve")**: Plot and saves the ROC curve using matplotlib before and after hyper-parameter tuning.
 
 7. **tune_hyperparameters(X_train, y_train, model_name)** : Perform hyperparameter tuning using GridSearchCV.
 
