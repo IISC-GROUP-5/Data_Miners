@@ -1,28 +1,28 @@
 [
     {
         "input_data": {
-            "Daily_Time_Spent_on_Site": 0.24241574378030087,
-            "Age": -0.10489522496236243,
-            "Area_Income": 0.5312853212580656,
-            "Daily_Internet_Usage": 1.7131835282734242
+            "Daily_Time_Spent_on_Site": 68.95,
+            "Age": 35,
+            "Area_Income": 61833.9,
+            "Daily_Internet_Usage": 256.09
         },
-        "prediction": 0,
+        "prediction": 1,
         "probabilities": [
-            0.536659498857106,
-            0.46334050114289377
+            0.5361864884840822,
+            0.4638135115159178
         ]
     },
     {
         "input_data": {
-            "Daily_Time_Spent_on_Site": 0.9753952289815778,
-            "Age": -0.7726028090328947,
-            "Area_Income": -0.20815482390908543,
-            "Daily_Internet_Usage": 2.721932667722427
+            "Daily_Time_Spent_on_Site": 80.5,
+            "Age": 29,
+            "Area_Income": 52000.0,
+            "Daily_Internet_Usage": 300.12
         },
-        "prediction": 0,
+        "prediction": 1,
         "probabilities": [
-            0.5366595258532435,
-            0.4633404741467565
+            0.5282372022388884,
+            0.47176279776111185
         ]
     }
 ]
