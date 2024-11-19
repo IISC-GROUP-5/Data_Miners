@@ -1,6 +1,4 @@
-# Jupyter_Notebooks
-
-**AdClick_Gender_Classification.ipynb**
+#**AdClick_Gender_Classification.ipynb**
 This notebooks  contains 10 functions which are :
 
 1. **load_and_preprocess_data(file_path)** : It takes one argument file_path and return preprocessed data. The preprocessing involves :
