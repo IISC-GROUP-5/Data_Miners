@@ -1,0 +1,4042 @@
+[
+    {
+        "input_data": {
+            "Unnamed:_0": 628,
+            "Daily_Time_Spent_on_Site": 67.91,
+            "Age": 23.0,
+            "Area_Income": 55002.05,
+            "Daily_Internet_Usage": 146.8,
+            "Ad_Topic_Line": "Re-engineered non-volatile neural-net",
+            "City": "Hubbardmouth",
+            "Gender": "Male",
+            "Country": "Latvia",
+            "Timestamp": "12-01-2016 03:28",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5320733553441732,
+            0.4679266446558267
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 631,
+            "Daily_Time_Spent_on_Site": 53.54,
+            "Age": 39.0,
+            "Area_Income": 47314.45,
+            "Daily_Internet_Usage": 108.03,
+            "Ad_Topic_Line": "Optimized systemic capability",
+            "City": "Julietown",
+            "Gender": "Female",
+            "Country": "Palau",
+            "Timestamp": "23-06-2016 11:05",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5358735200912271,
+            0.464126479908773
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 741,
+            "Daily_Time_Spent_on_Site": 71.23,
+            "Age": 52.0,
+            "Area_Income": 41521.28,
+            "Daily_Internet_Usage": 122.59,
+            "Ad_Topic_Line": "Self-enabling zero administration neural-net",
+            "City": "Ericksonmouth",
+            "Gender": "Female",
+            "Country": "Sweden",
+            "Timestamp": "05-01-2016 11:53",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5444887690093942,
+            0.45551123099060575
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 514,
+            "Daily_Time_Spent_on_Site": 70.29,
+            "Age": 26.0,
+            "Area_Income": 62053.37,
+            "Daily_Internet_Usage": 231.37,
+            "Ad_Topic_Line": "Vision-oriented multi-tasking success",
+            "City": "Shirleyfort",
+            "Gender": "Male",
+            "Country": "Puerto Rico",
+            "Timestamp": "28-03-2016 19:48",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5386006453062433,
+            0.46139935469375676
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 365,
+            "Daily_Time_Spent_on_Site": 73.3,
+            "Age": 36.0,
+            "Area_Income": 68211.35,
+            "Daily_Internet_Usage": 135.72,
+            "Ad_Topic_Line": "Adaptive asynchronous attitude",
+            "City": "West Tanya",
+            "Gender": "Male",
+            "Country": "Hungary",
+            "Timestamp": "30-01-2016 04:38",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5553720908978451,
+            0.4446279091021548
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 656,
+            "Daily_Time_Spent_on_Site": 86.53,
+            "Age": 46.0,
+            "Area_Income": 46500.11,
+            "Daily_Internet_Usage": 233.36,
+            "Ad_Topic_Line": "Networked responsive application",
+            "City": "Colemanshire",
+            "Gender": "Female",
+            "Country": "Greece",
+            "Timestamp": "29-06-2016 01:19",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5262981907840947,
+            0.47370180921590527
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 657,
+            "Daily_Time_Spent_on_Site": 76.44,
+            "Age": 26.0,
+            "Area_Income": 58820.16,
+            "Daily_Internet_Usage": 224.2,
+            "Ad_Topic_Line": "Distributed intangible database",
+            "City": "Troyville",
+            "Gender": "Male",
+            "Country": "Madagascar",
+            "Timestamp": "05-01-2016 06:34",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5297745574372121,
+            0.47022544256278787
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 530,
+            "Daily_Time_Spent_on_Site": 59.61,
+            "Age": 21.0,
+            "Area_Income": 60637.62,
+            "Daily_Internet_Usage": 198.45,
+            "Ad_Topic_Line": "Future-proofed coherent budgetary management",
+            "City": "Port James",
+            "Gender": "Male",
+            "Country": "Cambodia",
+            "Timestamp": "06-04-2016 05:55",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5277159409572908,
+            0.4722840590427094
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 321,
+            "Daily_Time_Spent_on_Site": 62.06,
+            "Age": 44.0,
+            "Area_Income": 44174.25,
+            "Daily_Internet_Usage": 105.0,
+            "Ad_Topic_Line": "Adaptive contextually-based methodology",
+            "City": "Port Paultown",
+            "Gender": "Female",
+            "Country": "Austria",
+            "Timestamp": "12-04-2016 14:01",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.542844204995751,
+            0.457155795004249
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 70,
+            "Daily_Time_Spent_on_Site": 46.13,
+            "Age": 31.0,
+            "Area_Income": 60248.97,
+            "Daily_Internet_Usage": 139.01,
+            "Ad_Topic_Line": "Customer-focused optimizing moderator",
+            "City": "Davidmouth",
+            "Gender": "Female",
+            "Country": "Bouvet Island (Bouvetoya)",
+            "Timestamp": "01-02-2016 09:00",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5262755416664214,
+            0.4737244583335788
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 793,
+            "Daily_Time_Spent_on_Site": 40.88,
+            "Age": 33.0,
+            "Area_Income": 48554.45,
+            "Daily_Internet_Usage": 136.18,
+            "Ad_Topic_Line": "Networked non-volatile synergy",
+            "City": "West Shannon",
+            "Gender": "Male",
+            "Country": "Costa Rica",
+            "Timestamp": "31-05-2016 17:50",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5212875799578269,
+            0.4787124200421732
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 371,
+            "Daily_Time_Spent_on_Site": 82.07,
+            "Age": 25.0,
+            "Area_Income": 46722.07,
+            "Daily_Internet_Usage": 205.38,
+            "Ad_Topic_Line": "Function-based optimizing extranet",
+            "City": "Lauraburgh",
+            "Gender": "Male",
+            "Country": "Panama",
+            "Timestamp": "20-06-2016 06:30",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5206901545627242,
+            0.47930984543727573
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 986,
+            "Daily_Time_Spent_on_Site": 54.97,
+            "Age": 31.0,
+            "Area_Income": 51900.03,
+            "Daily_Internet_Usage": 116.38,
+            "Ad_Topic_Line": "Virtual bifurcated portal",
+            "City": "Robinsontown",
+            "Gender": "Male",
+            "Country": "France",
+            "Timestamp": "07-07-2016 12:17",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5383589119249045,
+            0.4616410880750955
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 456,
+            "Daily_Time_Spent_on_Site": 83.42,
+            "Age": 25.0,
+            "Area_Income": 49850.52,
+            "Daily_Internet_Usage": 183.42,
+            "Ad_Topic_Line": "Advanced heuristic firmware",
+            "City": "East Toddfort",
+            "Gender": "Male",
+            "Country": "Austria",
+            "Timestamp": "04-03-2016 14:10",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5224890265865586,
+            0.4775109734134414
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 247,
+            "Daily_Time_Spent_on_Site": 39.96,
+            "Age": 45.0,
+            "Area_Income": 59610.81,
+            "Daily_Internet_Usage": 146.13,
+            "Ad_Topic_Line": "Enhanced homogeneous moderator",
+            "City": "East Barbara",
+            "Gender": "Male",
+            "Country": "Guernsey",
+            "Timestamp": "15-04-2016 06:08",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5259730287872523,
+            0.4740269712127479
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 757,
+            "Daily_Time_Spent_on_Site": 82.72,
+            "Age": 31.0,
+            "Area_Income": 65704.79,
+            "Daily_Internet_Usage": 179.82,
+            "Ad_Topic_Line": "Cross-group global orchestration",
+            "City": "North Monicaville",
+            "Gender": "Female",
+            "Country": "Belarus",
+            "Timestamp": "17-01-2016 05:07",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5386383889694439,
+            0.4613616110305561
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 751,
+            "Daily_Time_Spent_on_Site": 49.13,
+            "Age": 32.0,
+            "Area_Income": 41097.17,
+            "Daily_Internet_Usage": 120.49,
+            "Ad_Topic_Line": "Optimized intermediate help-desk",
+            "City": "Morganport",
+            "Gender": "Female",
+            "Country": "Fiji",
+            "Timestamp": "29-01-2016 00:45",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5383745782852909,
+            0.4616254217147091
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 983,
+            "Daily_Time_Spent_on_Site": 41.88,
+            "Age": 40.0,
+            "Area_Income": 44217.68,
+            "Daily_Internet_Usage": 126.11,
+            "Ad_Topic_Line": "Streamlined exuding adapter",
+            "City": "Port Rachel",
+            "Gender": "Male",
+            "Country": "Cyprus",
+            "Timestamp": "28-02-2016 23:54",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5228262724363637,
+            0.47717372756363635
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 298,
+            "Daily_Time_Spent_on_Site": 73.95,
+            "Age": 35.0,
+            "Area_Income": 67714.82,
+            "Daily_Internet_Usage": 238.58,
+            "Ad_Topic_Line": "Persevering even-keeled help-desk",
+            "City": "Millerland",
+            "Gender": "Female",
+            "Country": "Wallis and Futuna",
+            "Timestamp": "10-04-2016 14:48",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5422933118764904,
+            0.45770668812350945
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 101,
+            "Daily_Time_Spent_on_Site": 63.6,
+            "Age": 23.0,
+            "Area_Income": 51864.77,
+            "Daily_Internet_Usage": 235.28,
+            "Ad_Topic_Line": "Centralized logistical secured line",
+            "City": "Youngburgh",
+            "Gender": "Male",
+            "Country": "Serbia",
+            "Timestamp": "01-06-2016 09:27",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5246977493863934,
+            0.47530225061360676
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 1002,
+            "Daily_Time_Spent_on_Site": 64.2,
+            "Age": 27.0,
+            "Area_Income": 66200.96,
+            "Daily_Internet_Usage": 227.63,
+            "Ad_Topic_Line": "Phased zero tolerance extranet",
+            "City": "Edwardsmouth",
+            "Gender": "Male",
+            "Country": "Isle of Man",
+            "Timestamp": "11-02-2016 23:45",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5469472261828993,
+            0.4530527738171008
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 1000,
+            "Daily_Time_Spent_on_Site": 38.96,
+            "Age": 38.0,
+            "Area_Income": 58096.685,
+            "Daily_Internet_Usage": 140.67,
+            "Ad_Topic_Line": "Versatile mission-critical application",
+            "City": "Mauricefurt",
+            "Gender": "Male",
+            "Country": "Comoros",
+            "Timestamp": "21-07-2016 16:02",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5222668740985007,
+            0.4777331259014993
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 213,
+            "Daily_Time_Spent_on_Site": 76.87,
+            "Age": 27.0,
+            "Area_Income": 54774.77,
+            "Daily_Internet_Usage": 235.35,
+            "Ad_Topic_Line": "Configurable fault-tolerant monitoring",
+            "City": "Mcdonaldfort",
+            "Gender": "Male",
+            "Country": "Kyrgyz Republic",
+            "Timestamp": "29-05-2016 21:17",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5254439770584594,
+            0.47455602294154076
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 237,
+            "Daily_Time_Spent_on_Site": 76.77,
+            "Age": 36.0,
+            "Area_Income": 58348.41,
+            "Daily_Internet_Usage": 123.51,
+            "Ad_Topic_Line": "Universal even-keeled analyzer",
+            "City": "Harveyport",
+            "Gender": "Female",
+            "Country": "Turks and Caicos Islands",
+            "Timestamp": "04-05-2016 00:01",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5533371934072092,
+            0.44666280659279084
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 594,
+            "Daily_Time_Spent_on_Site": 57.2,
+            "Age": 42.0,
+            "Area_Income": 57739.03,
+            "Daily_Internet_Usage": 110.66,
+            "Ad_Topic_Line": "Innovative maximized groupware",
+            "City": "East Heatherside",
+            "Gender": "Female",
+            "Country": "New Zealand",
+            "Timestamp": "19-03-2016 11:09",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5353283423303522,
+            0.4646716576696475
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 281,
+            "Daily_Time_Spent_on_Site": 81.67,
+            "Age": 28.0,
+            "Area_Income": 62927.96,
+            "Daily_Internet_Usage": 196.76,
+            "Ad_Topic_Line": "Visionary analyzing structure",
+            "City": "North Christopher",
+            "Gender": "Male",
+            "Country": "Mauritania",
+            "Timestamp": "04-03-2016 08:48",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5320591090623029,
+            0.46794089093769714
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 377,
+            "Daily_Time_Spent_on_Site": 80.49,
+            "Age": 40.0,
+            "Area_Income": 67186.54,
+            "Daily_Internet_Usage": 229.12,
+            "Ad_Topic_Line": "Balanced heuristic approach",
+            "City": "Amyhaven",
+            "Gender": "Male",
+            "Country": "Peru",
+            "Timestamp": "########",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5328625764788829,
+            0.4671374235211172
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 286,
+            "Daily_Time_Spent_on_Site": 47.51,
+            "Age": 51.0,
+            "Area_Income": 53700.57,
+            "Daily_Internet_Usage": 130.41,
+            "Ad_Topic_Line": "Managed well-modulated collaboration",
+            "City": "Bethburgh",
+            "Gender": "Male",
+            "Country": "American Samoa",
+            "Timestamp": "21-05-2016 01:36",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5188893612575696,
+            0.4811106387424303
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 388,
+            "Daily_Time_Spent_on_Site": 80.59,
+            "Age": 37.0,
+            "Area_Income": 67744.56,
+            "Daily_Internet_Usage": 224.23,
+            "Ad_Topic_Line": "Robust responsive collaboration",
+            "City": "Lake Courtney",
+            "Gender": "Female",
+            "Country": "Croatia",
+            "Timestamp": "21-07-2016 23:14",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5372377230211356,
+            0.4627622769788644
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 886,
+            "Daily_Time_Spent_on_Site": 47.74,
+            "Age": 33.0,
+            "Area_Income": 22456.04,
+            "Daily_Internet_Usage": 154.93,
+            "Ad_Topic_Line": "Open-source 5thgeneration leverage",
+            "City": "Henryland",
+            "Gender": "Male",
+            "Country": "Saint Lucia",
+            "Timestamp": "14-05-2016 14:49",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5493308581189296,
+            0.4506691418810702
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 898,
+            "Daily_Time_Spent_on_Site": 37.74,
+            "Age": 40.0,
+            "Area_Income": 65773.49,
+            "Daily_Internet_Usage": 190.95,
+            "Ad_Topic_Line": "Balanced uniform algorithm",
+            "City": "Lake James",
+            "Gender": "Female",
+            "Country": "Denmark",
+            "Timestamp": "27-05-2016 12:45",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5425148074233452,
+            0.4574851925766547
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 851,
+            "Daily_Time_Spent_on_Site": 44.16,
+            "Age": 42.0,
+            "Area_Income": 61690.93,
+            "Daily_Internet_Usage": 133.42,
+            "Ad_Topic_Line": "Innovative interactive portal",
+            "City": "Port Dennis",
+            "Gender": "Male",
+            "Country": "Spain",
+            "Timestamp": "25-05-2016 00:34",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5267614037907518,
+            0.47323859620924846
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 96,
+            "Daily_Time_Spent_on_Site": 45.72,
+            "Age": 36.0,
+            "Area_Income": 22473.08,
+            "Daily_Internet_Usage": 154.02,
+            "Ad_Topic_Line": "Versatile homogeneous capacity",
+            "City": "Williammouth",
+            "Gender": "Male",
+            "Country": "Hong Kong",
+            "Timestamp": "19-04-2016 15:14",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5460173819741402,
+            0.45398261802585993
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 244,
+            "Daily_Time_Spent_on_Site": 85.03,
+            "Age": 30.0,
+            "Area_Income": 60372.64,
+            "Daily_Internet_Usage": 204.52,
+            "Ad_Topic_Line": "Expanded clear-thinking core",
+            "City": "North Shannon",
+            "Gender": "Female",
+            "Country": "Philippines",
+            "Timestamp": "19-06-2016 09:24",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5275245584586578,
+            0.4724754415413422
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 737,
+            "Daily_Time_Spent_on_Site": 44.11,
+            "Age": 41.0,
+            "Area_Income": 43111.41,
+            "Daily_Internet_Usage": 121.24,
+            "Ad_Topic_Line": "Organic next generation matrix",
+            "City": "Lake David",
+            "Gender": "Male",
+            "Country": "Saint Vincent and the Grenadines",
+            "Timestamp": "20-04-2016 16:49",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5251849894539762,
+            0.47481501054602404
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 76,
+            "Daily_Time_Spent_on_Site": 49.81,
+            "Age": 35.0,
+            "Area_Income": 57009.76,
+            "Daily_Internet_Usage": 120.06,
+            "Ad_Topic_Line": "Seamless real-time array",
+            "City": "Ramirezhaven",
+            "Gender": "Male",
+            "Country": "Faroe Islands",
+            "Timestamp": "05-01-2016 04:18",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5303582110019428,
+            0.4696417889980571
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 900,
+            "Daily_Time_Spent_on_Site": 85.37,
+            "Age": 36.0,
+            "Area_Income": 66262.59,
+            "Daily_Internet_Usage": 194.56,
+            "Ad_Topic_Line": "Front-line system-worthy flexibility",
+            "City": "Alexandrafort",
+            "Gender": "Male",
+            "Country": "Netherlands Antilles",
+            "Timestamp": "27-01-2016 17:08",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5371665989602263,
+            0.4628334010397737
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 209,
+            "Daily_Time_Spent_on_Site": 59.51,
+            "Age": 58.0,
+            "Area_Income": 39132.64,
+            "Daily_Internet_Usage": 140.83,
+            "Ad_Topic_Line": "Assimilated fault-tolerant hub",
+            "City": "Penatown",
+            "Gender": "Female",
+            "Country": "Australia",
+            "Timestamp": "16-06-2016 02:01",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5331002607565847,
+            0.46689973924341543
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 259,
+            "Daily_Time_Spent_on_Site": 40.06,
+            "Age": 38.0,
+            "Area_Income": 56782.18,
+            "Daily_Internet_Usage": 138.68,
+            "Ad_Topic_Line": "Organized contextually-based customer loyalty",
+            "City": "Olsonstad",
+            "Gender": "Male",
+            "Country": "Peru",
+            "Timestamp": "11-06-2016 08:38",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5215967853840101,
+            0.4784032146159899
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 158,
+            "Daily_Time_Spent_on_Site": 80.46,
+            "Age": 27.0,
+            "Area_Income": 61625.87,
+            "Daily_Internet_Usage": 207.96,
+            "Ad_Topic_Line": "Digitized zero administration paradigm",
+            "City": "Port Chasemouth",
+            "Gender": "Male",
+            "Country": "Costa Rica",
+            "Timestamp": "04-02-2016 02:13",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5306400893200744,
+            0.4693599106799256
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 495,
+            "Daily_Time_Spent_on_Site": 59.88,
+            "Age": 30.0,
+            "Area_Income": 75535.14,
+            "Daily_Internet_Usage": 193.63,
+            "Ad_Topic_Line": "Reverse-engineered content-based intranet",
+            "City": "West Michaelstad",
+            "Gender": "Male",
+            "Country": "French Polynesia",
+            "Timestamp": "02-03-2016 05:11",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5550358668182758,
+            0.44496413318172423
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 527,
+            "Daily_Time_Spent_on_Site": 79.91,
+            "Age": 32.0,
+            "Area_Income": 62772.42,
+            "Daily_Internet_Usage": 230.18,
+            "Ad_Topic_Line": "Total zero administration software",
+            "City": "South Stephanieport",
+            "Gender": "Male",
+            "Country": "United Arab Emirates",
+            "Timestamp": "17-06-2016 03:02",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5341218838186985,
+            0.4658781161813014
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 331,
+            "Daily_Time_Spent_on_Site": 41.47,
+            "Age": 31.0,
+            "Area_Income": 60953.93,
+            "Daily_Internet_Usage": 219.79,
+            "Ad_Topic_Line": "Secured scalable Graphical User Interface",
+            "City": "Port Brookeland",
+            "Gender": "Female",
+            "Country": "Martinique",
+            "Timestamp": "06-07-2016 15:56",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5371863903525745,
+            0.46281360964742574
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 979,
+            "Daily_Time_Spent_on_Site": 40.18,
+            "Age": 29.0,
+            "Area_Income": 50760.23,
+            "Daily_Internet_Usage": 151.96,
+            "Ad_Topic_Line": "Enhanced intangible portal",
+            "City": "Lake Tracy",
+            "Gender": "Female",
+            "Country": "Hong Kong",
+            "Timestamp": "25-06-2016 04:21",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5198679427011883,
+            0.4801320572988117
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 314,
+            "Daily_Time_Spent_on_Site": 75.55,
+            "Age": 22.0,
+            "Area_Income": 41851.38,
+            "Daily_Internet_Usage": 169.4,
+            "Ad_Topic_Line": "Upgradable even-keeled challenge",
+            "City": "New Amanda",
+            "Gender": "Female",
+            "Country": "Taiwan",
+            "Timestamp": "19-02-2016 07:29",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5323479980120915,
+            0.4676520019879085
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 294,
+            "Daily_Time_Spent_on_Site": 55.2,
+            "Age": 39.0,
+            "Area_Income": 76560.59,
+            "Daily_Internet_Usage": 159.46,
+            "Ad_Topic_Line": "Exclusive zero tolerance alliance",
+            "City": "Jordantown",
+            "Gender": "Male",
+            "Country": "United States of America",
+            "Timestamp": "30-05-2016 07:36",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5521678860841249,
+            0.44783211391587496
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 381,
+            "Daily_Time_Spent_on_Site": 67.56,
+            "Age": 31.0,
+            "Area_Income": 62318.38,
+            "Daily_Internet_Usage": 125.45,
+            "Ad_Topic_Line": "Seamless composite budgetary management",
+            "City": "Michelleside",
+            "Gender": "Female",
+            "Country": "Kenya",
+            "Timestamp": "25-04-2016 21:15",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5496916112452812,
+            0.4503083887547188
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 923,
+            "Daily_Time_Spent_on_Site": 54.96,
+            "Age": 42.0,
+            "Area_Income": 59419.78,
+            "Daily_Internet_Usage": 113.75,
+            "Ad_Topic_Line": "Public-key disintermediate emulation",
+            "City": "West Amanda",
+            "Gender": "Male",
+            "Country": "Niger",
+            "Timestamp": "28-02-2016 09:31",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5331981666796444,
+            0.46680183332035574
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 809,
+            "Daily_Time_Spent_on_Site": 53.92,
+            "Age": 41.0,
+            "Area_Income": 25739.09,
+            "Daily_Internet_Usage": 125.46,
+            "Ad_Topic_Line": "Business-focused transitional solution",
+            "City": "Lake Amanda",
+            "Gender": "Male",
+            "Country": "Turkey",
+            "Timestamp": "12-06-2016 11:17",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5468371264343636,
+            0.4531628735656362
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 895,
+            "Daily_Time_Spent_on_Site": 54.08,
+            "Age": 36.0,
+            "Area_Income": 53012.94,
+            "Daily_Internet_Usage": 111.02,
+            "Ad_Topic_Line": "Innovative cohesive pricing structure",
+            "City": "Philipberg",
+            "Gender": "Male",
+            "Country": "Mayotte",
+            "Timestamp": "02-06-2016 04:14",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5363545434841414,
+            0.46364545651585864
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 622,
+            "Daily_Time_Spent_on_Site": 74.54,
+            "Age": 24.0,
+            "Area_Income": 57518.73,
+            "Daily_Internet_Usage": 219.75,
+            "Ad_Topic_Line": "Switchable secondary ability",
+            "City": "Alexisland",
+            "Gender": "Female",
+            "Country": "Bahamas",
+            "Timestamp": "30-03-2016 16:15",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5275019521053309,
+            0.4724980478946691
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 720,
+            "Daily_Time_Spent_on_Site": 39.96,
+            "Age": 35.0,
+            "Area_Income": 53898.89,
+            "Daily_Internet_Usage": 138.52,
+            "Ad_Topic_Line": "Phased leadingedge budgetary management",
+            "City": "Kingchester",
+            "Gender": "Male",
+            "Country": "Pitcairn Islands",
+            "Timestamp": "28-02-2016 23:21",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5197097880264203,
+            0.4802902119735797
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 59,
+            "Daily_Time_Spent_on_Site": 41.82,
+            "Age": 41.0,
+            "Area_Income": 24852.9,
+            "Daily_Internet_Usage": 156.36,
+            "Ad_Topic_Line": "Phased transitional instruction set",
+            "City": "Brendachester",
+            "Gender": "Female",
+            "Country": "Iran",
+            "Timestamp": "26-05-2016 22:49",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5396465660799634,
+            0.4603534339200366
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 626,
+            "Daily_Time_Spent_on_Site": 87.97,
+            "Age": 35.0,
+            "Area_Income": 48918.55,
+            "Daily_Internet_Usage": 149.25,
+            "Ad_Topic_Line": "Secured secondary superstructure",
+            "City": "Port Brianfort",
+            "Gender": "Male",
+            "Country": "France",
+            "Timestamp": "24-03-2016 05:38",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5417196100332117,
+            0.4582803899667883
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 559,
+            "Daily_Time_Spent_on_Site": 56.2,
+            "Age": 49.0,
+            "Area_Income": 53549.94,
+            "Daily_Internet_Usage": 114.85,
+            "Ad_Topic_Line": "Adaptive uniform capability",
+            "City": "East Georgeside",
+            "Gender": "Male",
+            "Country": "Bahamas",
+            "Timestamp": "21-04-2016 18:31",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.525069093853098,
+            0.4749309061469022
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 746,
+            "Daily_Time_Spent_on_Site": 71.9,
+            "Age": 29.0,
+            "Area_Income": 72203.96,
+            "Daily_Internet_Usage": 193.29,
+            "Ad_Topic_Line": "De-engineered intangible flexibility",
+            "City": "Williamsside",
+            "Gender": "Male",
+            "Country": "Costa Rica",
+            "Timestamp": "24-04-2016 07:20",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5513474854485227,
+            0.44865251455147714
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 380,
+            "Daily_Time_Spent_on_Site": 69.2,
+            "Age": 42.0,
+            "Area_Income": 26023.99,
+            "Daily_Internet_Usage": 123.8,
+            "Ad_Topic_Line": "Balanced value-added database",
+            "City": "Meyersstad",
+            "Gender": "Female",
+            "Country": "Peru",
+            "Timestamp": "17-06-2016 09:58",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5539137767664204,
+            0.44608622323357977
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 54,
+            "Daily_Time_Spent_on_Site": 62.31,
+            "Age": 47.0,
+            "Area_Income": 62722.57,
+            "Daily_Internet_Usage": 119.3,
+            "Ad_Topic_Line": "Team-oriented encompassing portal",
+            "City": "Amandahaven",
+            "Gender": "Female",
+            "Country": "Turkey",
+            "Timestamp": "14-02-2016 07:36",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.534710178787367,
+            0.465289821212633
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 23,
+            "Daily_Time_Spent_on_Site": 87.29,
+            "Age": 36.0,
+            "Area_Income": 61628.72,
+            "Daily_Internet_Usage": 209.93,
+            "Ad_Topic_Line": "Future-proofed methodical protocol",
+            "City": "Pamelamouth",
+            "Gender": "Male",
+            "Country": "Korea",
+            "Timestamp": "23-03-2016 09:43",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5287383632191773,
+            0.4712616367808225
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 30,
+            "Daily_Time_Spent_on_Site": 67.64,
+            "Age": 35.0,
+            "Area_Income": 51473.28,
+            "Daily_Internet_Usage": 267.01,
+            "Ad_Topic_Line": "Programmable asymmetric data-warehouse",
+            "City": "Phelpschester",
+            "Gender": "Male",
+            "Country": "Peru",
+            "Timestamp": "02-07-2016 20:23",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5254938026004728,
+            0.4745061973995271
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 879,
+            "Daily_Time_Spent_on_Site": 72.19,
+            "Age": 32.0,
+            "Area_Income": 61067.58,
+            "Daily_Internet_Usage": 250.32,
+            "Ad_Topic_Line": "Balanced discrete approach",
+            "City": "Randolphport",
+            "Gender": "Male",
+            "Country": "Switzerland",
+            "Timestamp": "22-04-2016 19:45",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.536135973878441,
+            0.4638640261215588
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 429,
+            "Daily_Time_Spent_on_Site": 54.43,
+            "Age": 37.0,
+            "Area_Income": 75180.2,
+            "Daily_Internet_Usage": 154.74,
+            "Ad_Topic_Line": "Balanced contextually-based pricing structure",
+            "City": "Williamsmouth",
+            "Gender": "Male",
+            "Country": "Luxembourg",
+            "Timestamp": "31-05-2016 09:06",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.551704911748796,
+            0.4482950882512042
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 10,
+            "Daily_Time_Spent_on_Site": 47.64,
+            "Age": 49.0,
+            "Area_Income": 45632.51,
+            "Daily_Internet_Usage": 122.02,
+            "Ad_Topic_Line": "Centralized neutral neural-net",
+            "City": "West Brandonton",
+            "Gender": "Female",
+            "Country": "Qatar",
+            "Timestamp": "16-03-2016 20:19",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5223266376363463,
+            0.4776733623636537
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 655,
+            "Daily_Time_Spent_on_Site": 85.26,
+            "Age": 32.0,
+            "Area_Income": 55424.24,
+            "Daily_Internet_Usage": 224.07,
+            "Ad_Topic_Line": "Reverse-engineered dynamic function",
+            "City": "Lisafort",
+            "Gender": "Male",
+            "Country": "Netherlands Antilles",
+            "Timestamp": "24-02-2016 06:18",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5224928943205618,
+            0.4775071056794381
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 884,
+            "Daily_Time_Spent_on_Site": 81.75,
+            "Age": 43.0,
+            "Area_Income": 52520.75,
+            "Daily_Internet_Usage": 249.45,
+            "Ad_Topic_Line": "Progressive 24/7 definition",
+            "City": "Lake Jose",
+            "Gender": "Female",
+            "Country": "Barbados",
+            "Timestamp": "07-06-2016 05:41",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.522400225196712,
+            0.477599774803288
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 482,
+            "Daily_Time_Spent_on_Site": 39.76,
+            "Age": 28.0,
+            "Area_Income": 35350.55,
+            "Daily_Internet_Usage": 196.83,
+            "Ad_Topic_Line": "Integrated maximized service-desk",
+            "City": "Pottermouth",
+            "Gender": "Male",
+            "Country": "Liberia",
+            "Timestamp": "08-02-2016 14:02",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.535015571801432,
+            0.46498442819856795
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 445,
+            "Daily_Time_Spent_on_Site": 36.44,
+            "Age": 39.0,
+            "Area_Income": 52400.88,
+            "Daily_Internet_Usage": 147.64,
+            "Ad_Topic_Line": "Configurable disintermediate throughput",
+            "City": "Port Patrickton",
+            "Gender": "Male",
+            "Country": "Estonia",
+            "Timestamp": "31-05-2016 06:21",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5205609353059314,
+            0.47943906469406883
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 199,
+            "Daily_Time_Spent_on_Site": 77.05,
+            "Age": 27.0,
+            "Area_Income": 66624.6,
+            "Daily_Internet_Usage": 191.14,
+            "Ad_Topic_Line": "Reduced bi-directional strategy",
+            "City": "North Anna",
+            "Gender": "Female",
+            "Country": "United Arab Emirates",
+            "Timestamp": "21-01-2016 23:48",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5394780166270484,
+            0.46052198337295164
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 500,
+            "Daily_Time_Spent_on_Site": 41.7,
+            "Age": 39.0,
+            "Area_Income": 42898.21,
+            "Daily_Internet_Usage": 126.95,
+            "Ad_Topic_Line": "Innovative regional structure",
+            "City": "Jensenton",
+            "Gender": "Female",
+            "Country": "China",
+            "Timestamp": "27-05-2016 05:35",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5239732859003804,
+            0.4760267140996195
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 929,
+            "Daily_Time_Spent_on_Site": 45.48,
+            "Age": 49.0,
+            "Area_Income": 53336.76,
+            "Daily_Internet_Usage": 129.16,
+            "Ad_Topic_Line": "Networked client-server solution",
+            "City": "Blairborough",
+            "Gender": "Male",
+            "Country": "Lao People's Democratic Republic",
+            "Timestamp": "19-05-2016 04:23",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5193507939202862,
+            0.48064920607971373
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 107,
+            "Daily_Time_Spent_on_Site": 42.39,
+            "Age": 42.0,
+            "Area_Income": 66541.05,
+            "Daily_Internet_Usage": 150.99,
+            "Ad_Topic_Line": "De-engineered mobile infrastructure",
+            "City": "Erinton",
+            "Gender": "Female",
+            "Country": "Christmas Island",
+            "Timestamp": "28-04-2016 05:50",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5346438122855707,
+            0.46535618771442927
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 218,
+            "Daily_Time_Spent_on_Site": 53.3,
+            "Age": 34.0,
+            "Area_Income": 44893.71,
+            "Daily_Internet_Usage": 111.94,
+            "Ad_Topic_Line": "Self-enabling optimal initiative",
+            "City": "West Jessicahaven",
+            "Gender": "Female",
+            "Country": "Mauritania",
+            "Timestamp": "06-05-2016 21:07",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5401920902433438,
+            0.4598079097566559
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 420,
+            "Daily_Time_Spent_on_Site": 72.92,
+            "Age": 36.045,
+            "Area_Income": 69428.73,
+            "Daily_Internet_Usage": 217.1,
+            "Ad_Topic_Line": "Customizable mission-critical adapter",
+            "City": "Port Melissastad",
+            "Gender": "Male",
+            "Country": "Czech Republic",
+            "Timestamp": "15-03-2016 17:33",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5457746559734948,
+            0.4542253440265052
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 174,
+            "Daily_Time_Spent_on_Site": 63.36,
+            "Age": 48.0,
+            "Area_Income": 70053.27,
+            "Daily_Internet_Usage": 137.43,
+            "Ad_Topic_Line": "Centralized tertiary pricing structure",
+            "City": "East Eric",
+            "Gender": "Female",
+            "Country": "Guinea",
+            "Timestamp": "23-06-2016 01:22",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5377610550132532,
+            0.46223894498674667
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 722,
+            "Daily_Time_Spent_on_Site": 68.95,
+            "Age": 51.0,
+            "Area_Income": 74623.27,
+            "Daily_Internet_Usage": 185.85,
+            "Ad_Topic_Line": "Front-line bandwidth-monitored capacity",
+            "City": "South Adamhaven",
+            "Gender": "Male",
+            "Country": "United States Virgin Islands",
+            "Timestamp": "15-03-2016 20:19",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5310431029979681,
+            0.46895689700203186
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 519,
+            "Daily_Time_Spent_on_Site": 84.81,
+            "Age": 32.0,
+            "Area_Income": 43299.63,
+            "Daily_Internet_Usage": 233.93,
+            "Ad_Topic_Line": "Multi-layered stable encoding",
+            "City": "Brownbury",
+            "Gender": "Male",
+            "Country": "Greece",
+            "Timestamp": "04-07-2016 23:17",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5207751589530516,
+            0.47922484104694857
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 453,
+            "Daily_Time_Spent_on_Site": 43.41,
+            "Age": 28.0,
+            "Area_Income": 59144.02,
+            "Daily_Internet_Usage": 160.73,
+            "Ad_Topic_Line": "Customer-focused zero-defect process improvement",
+            "City": "Lovemouth",
+            "Gender": "Female",
+            "Country": "Egypt",
+            "Timestamp": "05-02-2016 15:26",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5222905232517595,
+            0.4777094767482405
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 932,
+            "Daily_Time_Spent_on_Site": 59.64,
+            "Age": 51.0,
+            "Area_Income": 71455.62,
+            "Daily_Internet_Usage": 153.12,
+            "Ad_Topic_Line": "Re-contextualized human-resource success",
+            "City": "Evansville",
+            "Gender": "Male",
+            "Country": "Guyana",
+            "Timestamp": "03-05-2016 01:09",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.531436441060067,
+            0.4685635589399328
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 39,
+            "Daily_Time_Spent_on_Site": 38.93,
+            "Age": 39.0,
+            "Area_Income": 27508.41,
+            "Daily_Internet_Usage": 162.08,
+            "Ad_Topic_Line": "Intuitive exuding service-desk",
+            "City": "Millerchester",
+            "Gender": "Female",
+            "Country": "Liberia",
+            "Timestamp": "11-03-2016 06:49",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5377381198629113,
+            0.46226188013708863
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 552,
+            "Daily_Time_Spent_on_Site": 73.89,
+            "Age": 35.0,
+            "Area_Income": 70495.64,
+            "Daily_Internet_Usage": 229.99,
+            "Ad_Topic_Line": "Multi-channeled asymmetric installation",
+            "City": "Dustinborough",
+            "Gender": "Male",
+            "Country": "Somalia",
+            "Timestamp": "26-06-2016 17:25",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5462323767471895,
+            0.45376762325281045
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 822,
+            "Daily_Time_Spent_on_Site": 54.47,
+            "Age": 23.0,
+            "Area_Income": 46780.09,
+            "Daily_Internet_Usage": 141.52,
+            "Ad_Topic_Line": "Vision-oriented bifurcated contingency",
+            "City": "Holderville",
+            "Gender": "Female",
+            "Country": "Chad",
+            "Timestamp": "26-03-2016 19:37",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.532732213167329,
+            0.4672677868326709
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 351,
+            "Daily_Time_Spent_on_Site": 60.91,
+            "Age": 19.0,
+            "Area_Income": 53309.61,
+            "Daily_Internet_Usage": 184.94,
+            "Ad_Topic_Line": "Upgradable directional system engine",
+            "City": "Port Kathleenfort",
+            "Gender": "Female",
+            "Country": "Nauru",
+            "Timestamp": "09-06-2016 14:24",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5200407516878062,
+            0.47995924831219383
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 66,
+            "Daily_Time_Spent_on_Site": 63.89,
+            "Age": 40.0,
+            "Area_Income": 51317.33,
+            "Daily_Internet_Usage": 105.22,
+            "Ad_Topic_Line": "Synchronized user-facing core",
+            "City": "Jensenborough",
+            "Gender": "Female",
+            "Country": "Rwanda",
+            "Timestamp": "08-01-2016 00:17",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5461870973010174,
+            0.45381290269898267
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 277,
+            "Daily_Time_Spent_on_Site": 47.66,
+            "Age": 29.0,
+            "Area_Income": 27086.4,
+            "Daily_Internet_Usage": 156.54,
+            "Ad_Topic_Line": "Devolved responsive structure",
+            "City": "Tinaton",
+            "Gender": "Female",
+            "Country": "Honduras",
+            "Timestamp": "18-07-2016 11:33",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5494351559568276,
+            0.45056484404317254
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 67,
+            "Daily_Time_Spent_on_Site": 35.33,
+            "Age": 32.0,
+            "Area_Income": 51510.18,
+            "Daily_Internet_Usage": 200.22,
+            "Ad_Topic_Line": "Organized client-driven alliance",
+            "City": "Bradleyburgh",
+            "Gender": "Female",
+            "Country": "Turks and Caicos Islands",
+            "Timestamp": "05-06-2016 22:11",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5292897816974085,
+            0.4707102183025915
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 909,
+            "Daily_Time_Spent_on_Site": 45.62,
+            "Age": 43.0,
+            "Area_Income": 53647.81,
+            "Daily_Internet_Usage": 121.28,
+            "Ad_Topic_Line": "Monitored homogeneous artificial intelligence",
+            "City": "Robertfurt",
+            "Gender": "Female",
+            "Country": "Macao",
+            "Timestamp": "26-06-2016 02:34",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5219024207849308,
+            0.4780975792150693
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 820,
+            "Daily_Time_Spent_on_Site": 80.96,
+            "Age": 39.0,
+            "Area_Income": 67866.95,
+            "Daily_Internet_Usage": 225.0,
+            "Ad_Topic_Line": "Integrated leadingedge frame",
+            "City": "New Travis",
+            "Gender": "Male",
+            "Country": "Wallis and Futuna",
+            "Timestamp": "17-01-2016 04:12",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5349420471879616,
+            0.4650579528120384
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 643,
+            "Daily_Time_Spent_on_Site": 64.63,
+            "Age": 45.0,
+            "Area_Income": 15598.29,
+            "Daily_Internet_Usage": 158.8,
+            "Ad_Topic_Line": "Triple-buffered high-level Internet solution",
+            "City": "Isaacborough",
+            "Gender": "Male",
+            "Country": "Azerbaijan",
+            "Timestamp": "12-06-2016 03:11",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.544421495397957,
+            0.4555785046020428
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 296,
+            "Daily_Time_Spent_on_Site": 71.55,
+            "Age": 36.0,
+            "Area_Income": 75687.46,
+            "Daily_Internet_Usage": 163.99,
+            "Ad_Topic_Line": "Inverse next generation moratorium",
+            "City": "South Troy",
+            "Gender": "Male",
+            "Country": "Suriname",
+            "Timestamp": "20-07-2016 23:08",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.556331060610968,
+            0.443668939389032
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 802,
+            "Daily_Time_Spent_on_Site": 77.05,
+            "Age": 34.0,
+            "Area_Income": 65756.36,
+            "Daily_Internet_Usage": 236.08,
+            "Ad_Topic_Line": "Centralized value-added hierarchy",
+            "City": "Villanuevastad",
+            "Gender": "Female",
+            "Country": "Namibia",
+            "Timestamp": "17-05-2016 18:06",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5390070837834897,
+            0.4609929162165104
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 599,
+            "Daily_Time_Spent_on_Site": 77.25,
+            "Age": 27.0,
+            "Area_Income": 55901.12,
+            "Daily_Internet_Usage": 231.38,
+            "Ad_Topic_Line": "Pre-emptive neutral contingency",
+            "City": "Port Elijah",
+            "Gender": "Male",
+            "Country": "Saint Vincent and the Grenadines",
+            "Timestamp": "25-04-2016 16:58",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.526301800950135,
+            0.4736981990498649
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 950,
+            "Daily_Time_Spent_on_Site": 79.51,
+            "Age": 39.0,
+            "Area_Income": 58096.685,
+            "Daily_Internet_Usage": 125.11,
+            "Ad_Topic_Line": "Proactive non-volatile encryption",
+            "City": "North Charlesbury",
+            "Gender": "Male",
+            "Country": "Brunei Darussalam",
+            "Timestamp": "06-03-2016 09:33",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5531075379582749,
+            0.44689246204172495
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 557,
+            "Daily_Time_Spent_on_Site": 38.35,
+            "Age": 33.0,
+            "Area_Income": 47447.89,
+            "Daily_Internet_Usage": 145.48,
+            "Ad_Topic_Line": "Horizontal global leverage",
+            "City": "Port Christopher",
+            "Gender": "Male",
+            "Country": "Christmas Island",
+            "Timestamp": "16-06-2016 20:24",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5204575084501499,
+            0.47954249154985
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 423,
+            "Daily_Time_Spent_on_Site": 34.3,
+            "Age": 41.0,
+            "Area_Income": 53167.68,
+            "Daily_Internet_Usage": 160.74,
+            "Ad_Topic_Line": "Re-contextualized reciprocal interface",
+            "City": "West Melaniefurt",
+            "Gender": "Male",
+            "Country": "Libyan Arab Jamahiriya",
+            "Timestamp": "16-05-2016 14:50",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5255442423253478,
+            0.47445575767465226
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 759,
+            "Daily_Time_Spent_on_Site": 65.07,
+            "Age": 34.0,
+            "Area_Income": 73941.91,
+            "Daily_Internet_Usage": 227.53,
+            "Ad_Topic_Line": "Monitored explicit hierarchy",
+            "City": "Princebury",
+            "Gender": "Male",
+            "Country": "Anguilla",
+            "Timestamp": "11-03-2016 00:05",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5541548196535809,
+            0.44584518034641907
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 312,
+            "Daily_Time_Spent_on_Site": 76.56,
+            "Age": 34.0,
+            "Area_Income": 70179.11,
+            "Daily_Internet_Usage": 221.53,
+            "Ad_Topic_Line": "Universal bi-directional extranet",
+            "City": "Jeremyshire",
+            "Gender": "Male",
+            "Country": "Dominica",
+            "Timestamp": "23-04-2016 08:15",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.54584691285683,
+            0.4541530871431699
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 184,
+            "Daily_Time_Spent_on_Site": 85.56,
+            "Age": 29.0,
+            "Area_Income": 53673.08,
+            "Daily_Internet_Usage": 210.46,
+            "Ad_Topic_Line": "Advanced modular Local Area Network",
+            "City": "South Denisefurt",
+            "Gender": "Female",
+            "Country": "Samoa",
+            "Timestamp": "05-06-2016 13:16",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5208889181249594,
+            0.4791110818750407
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 332,
+            "Daily_Time_Spent_on_Site": 80.71,
+            "Age": 26.0,
+            "Area_Income": 58476.57,
+            "Daily_Internet_Usage": 200.58,
+            "Ad_Topic_Line": "Team-oriented context-sensitive installation",
+            "City": "East Christopherbury",
+            "Gender": "Female",
+            "Country": "Cameroon",
+            "Timestamp": "24-06-2016 05:50",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5255986566209297,
+            0.4744013433790703
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 88,
+            "Daily_Time_Spent_on_Site": 57.7,
+            "Age": 34.0,
+            "Area_Income": 42696.67,
+            "Daily_Internet_Usage": 109.07,
+            "Ad_Topic_Line": "Phased dynamic customer loyalty",
+            "City": "New Tina",
+            "Gender": "Female",
+            "Country": "Australia",
+            "Timestamp": "14-03-2016 23:13",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5473366604811638,
+            0.4526633395188362
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 63,
+            "Daily_Time_Spent_on_Site": 86.06,
+            "Age": 32.0,
+            "Area_Income": 61601.05,
+            "Daily_Internet_Usage": 178.92,
+            "Ad_Topic_Line": "Focused upward-trending core",
+            "City": "North Leonmouth",
+            "Gender": "Male",
+            "Country": "Bulgaria",
+            "Timestamp": "31-03-2016 20:55",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5328971520034298,
+            0.4671028479965702
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 833,
+            "Daily_Time_Spent_on_Site": 66.69,
+            "Age": 35.0,
+            "Area_Income": 48758.92,
+            "Daily_Internet_Usage": 108.27,
+            "Ad_Topic_Line": "Integrated encompassing support",
+            "City": "Vanessastad",
+            "Gender": "Female",
+            "Country": "Jersey",
+            "Timestamp": "11-05-2016 19:13",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5523651292701536,
+            0.4476348707298463
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 575,
+            "Daily_Time_Spent_on_Site": 72.8,
+            "Age": 35.0,
+            "Area_Income": 63551.67,
+            "Daily_Internet_Usage": 249.54,
+            "Ad_Topic_Line": "Public-key solution-oriented focus group",
+            "City": "Austinland",
+            "Gender": "Female",
+            "Country": "Puerto Rico",
+            "Timestamp": "03-01-2016 23:21",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5368919272673816,
+            0.46310807273261867
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 215,
+            "Daily_Time_Spent_on_Site": 81.98,
+            "Age": 40.0,
+            "Area_Income": 65461.92,
+            "Daily_Internet_Usage": 229.22,
+            "Ad_Topic_Line": "Ameliorated upward-trending definition",
+            "City": "Taylorberg",
+            "Gender": "Female",
+            "Country": "Seychelles",
+            "Timestamp": "15-04-2016 11:51",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5307025078603519,
+            0.4692974921396481
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 605,
+            "Daily_Time_Spent_on_Site": 71.83,
+            "Age": 40.0,
+            "Area_Income": 22205.74,
+            "Daily_Internet_Usage": 135.48,
+            "Ad_Topic_Line": "Diverse background ability",
+            "City": "Costaburgh",
+            "Gender": "Male",
+            "Country": "Rwanda",
+            "Timestamp": "18-02-2016 22:42",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5530749682594308,
+            0.4469250317405694
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 549,
+            "Daily_Time_Spent_on_Site": 78.77,
+            "Age": 28.0,
+            "Area_Income": 63497.62,
+            "Daily_Internet_Usage": 211.83,
+            "Ad_Topic_Line": "Public-key intangible Graphical User Interface",
+            "City": "Gomezport",
+            "Gender": "Female",
+            "Country": "Guam",
+            "Timestamp": "01-01-2016 08:27",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5352853532126413,
+            0.46471464678735885
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 290,
+            "Daily_Time_Spent_on_Site": 45.05,
+            "Age": 42.0,
+            "Area_Income": 66348.95,
+            "Daily_Internet_Usage": 141.36,
+            "Ad_Topic_Line": "Digitized contextually-based product",
+            "City": "South Kyle",
+            "Gender": "Female",
+            "Country": "French Southern Territories",
+            "Timestamp": "05-05-2016 11:09",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5333935968788511,
+            0.46660640312114887
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 789,
+            "Daily_Time_Spent_on_Site": 36.37,
+            "Age": 40.0,
+            "Area_Income": 47338.94,
+            "Daily_Internet_Usage": 144.53,
+            "Ad_Topic_Line": "Quality-focused zero-defect data-warehouse",
+            "City": "North Jessicaville",
+            "Gender": "Male",
+            "Country": "Kiribati",
+            "Timestamp": "22-04-2016 00:28",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5201399346949622,
+            0.47986006530503766
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 890,
+            "Daily_Time_Spent_on_Site": 70.92,
+            "Age": 39.0,
+            "Area_Income": 66522.79,
+            "Daily_Internet_Usage": 249.81,
+            "Ad_Topic_Line": "Up-sized intangible circuit",
+            "City": "New Nathan",
+            "Gender": "Male",
+            "Country": "South Africa",
+            "Timestamp": "21-07-2016 20:30",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5358673091088946,
+            0.46413269089110537
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 968,
+            "Daily_Time_Spent_on_Site": 85.35,
+            "Age": 37.0,
+            "Area_Income": 64235.51,
+            "Daily_Internet_Usage": 161.42,
+            "Ad_Topic_Line": "Exclusive multi-state Internet solution",
+            "City": "Claytonside",
+            "Gender": "Male",
+            "Country": "Ecuador",
+            "Timestamp": "17-02-2016 11:15",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5438015852677838,
+            0.4561984147322162
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 945,
+            "Daily_Time_Spent_on_Site": 50.6,
+            "Age": 48.0,
+            "Area_Income": 65956.71,
+            "Daily_Internet_Usage": 135.67,
+            "Ad_Topic_Line": "Customer-focused fault-tolerant implementation",
+            "City": "Port Michaelmouth",
+            "Gender": "Female",
+            "Country": "Brazil",
+            "Timestamp": "15-01-2016 22:49",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5284027169901587,
+            0.4715972830098415
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 743,
+            "Daily_Time_Spent_on_Site": 82.37,
+            "Age": 30.0,
+            "Area_Income": 63664.32,
+            "Daily_Internet_Usage": 207.44,
+            "Ad_Topic_Line": "Open-architected system-worthy ability",
+            "City": "Estradafurt",
+            "Gender": "Female",
+            "Country": "Tonga",
+            "Timestamp": "29-06-2016 04:23",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5336161880464622,
+            0.46638381195353784
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 682,
+            "Daily_Time_Spent_on_Site": 65.57,
+            "Age": 46.0,
+            "Area_Income": 23410.75,
+            "Daily_Internet_Usage": 130.86,
+            "Ad_Topic_Line": "Implemented asynchronous application",
+            "City": "Reginamouth",
+            "Gender": "Female",
+            "Country": "Belgium",
+            "Timestamp": "15-04-2016 15:07",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5498479500171063,
+            0.45015204998289376
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 695,
+            "Daily_Time_Spent_on_Site": 87.16,
+            "Age": 37.0,
+            "Area_Income": 50711.68,
+            "Daily_Internet_Usage": 231.95,
+            "Ad_Topic_Line": "Pre-emptive content-based frame",
+            "City": "East Donnatown",
+            "Gender": "Male",
+            "Country": "Western Sahara",
+            "Timestamp": "16-03-2016 20:33",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5209438144138252,
+            0.47905618558617497
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 994,
+            "Daily_Time_Spent_on_Site": 72.88,
+            "Age": 36.045,
+            "Area_Income": 64011.26,
+            "Daily_Internet_Usage": 125.12,
+            "Ad_Topic_Line": "Customer-focused explicit challenge",
+            "City": "Sarahland",
+            "Gender": "Female",
+            "Country": "Yemen",
+            "Timestamp": "21-04-2016 19:56",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5544975593305157,
+            0.4455024406694845
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 309,
+            "Daily_Time_Spent_on_Site": 82.7,
+            "Age": 35.0,
+            "Area_Income": 61383.79,
+            "Daily_Internet_Usage": 231.07,
+            "Ad_Topic_Line": "Visionary multi-tasking alliance",
+            "City": "Amyfurt",
+            "Gender": "Female",
+            "Country": "Somalia",
+            "Timestamp": "09-01-2016 15:49",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5293319198052454,
+            0.4706680801947546
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 86,
+            "Daily_Time_Spent_on_Site": 77.51,
+            "Age": 36.0,
+            "Area_Income": 73600.28,
+            "Daily_Internet_Usage": 200.55,
+            "Ad_Topic_Line": "Total 5thgeneration encoding",
+            "City": "North Kristine",
+            "Gender": "Female",
+            "Country": "Central African Republic",
+            "Timestamp": "01-07-2016 04:41",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5486544135639636,
+            0.45134558643603634
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 730,
+            "Daily_Time_Spent_on_Site": 67.47,
+            "Age": 24.0,
+            "Area_Income": 60514.05,
+            "Daily_Internet_Usage": 225.05,
+            "Ad_Topic_Line": "Multi-tiered heuristic strategy",
+            "City": "Watsonfort",
+            "Gender": "Male",
+            "Country": "Vanuatu",
+            "Timestamp": "20-03-2016 07:12",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5348889507963768,
+            0.4651110492036233
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 516,
+            "Daily_Time_Spent_on_Site": 59.13,
+            "Age": 44.0,
+            "Area_Income": 49525.37,
+            "Daily_Internet_Usage": 106.04,
+            "Ad_Topic_Line": "Upgradable heuristic system engine",
+            "City": "South Lisa",
+            "Gender": "Male",
+            "Country": "Turkey",
+            "Timestamp": "09-06-2016 17:11",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5365316290524187,
+            0.46346837094758137
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 310,
+            "Daily_Time_Spent_on_Site": 84.88,
+            "Age": 32.0,
+            "Area_Income": 63924.82,
+            "Daily_Internet_Usage": 186.48,
+            "Ad_Topic_Line": "Ameliorated tangible hierarchy",
+            "City": "Harrishaven",
+            "Gender": "Female",
+            "Country": "Lebanon",
+            "Timestamp": "18-04-2016 03:41",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5347645153834016,
+            0.46523548461659836
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 591,
+            "Daily_Time_Spent_on_Site": 77.31,
+            "Age": 32.0,
+            "Area_Income": 62792.43,
+            "Daily_Internet_Usage": 238.1,
+            "Ad_Topic_Line": "Assimilated homogeneous service-desk",
+            "City": "North Garyhaven",
+            "Gender": "Female",
+            "Country": "Nepal",
+            "Timestamp": "17-06-2016 20:18",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5358844894013131,
+            0.464115510598687
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 136,
+            "Daily_Time_Spent_on_Site": 38.37,
+            "Age": 36.0,
+            "Area_Income": 41229.16,
+            "Daily_Internet_Usage": 140.46,
+            "Ad_Topic_Line": "Multi-layered user-facing paradigm",
+            "City": "East John",
+            "Gender": "Female",
+            "Country": "Antarctica (the territory South of 60 deg S)",
+            "Timestamp": "13-05-2016 06:09",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5242622037595759,
+            0.47573779624042417
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 874,
+            "Daily_Time_Spent_on_Site": 67.71,
+            "Age": 25.0,
+            "Area_Income": 63430.33,
+            "Daily_Internet_Usage": 225.76,
+            "Ad_Topic_Line": "Synergized intangible open system",
+            "City": "Daviesborough",
+            "Gender": "Male",
+            "Country": "Armenia",
+            "Timestamp": "28-04-2016 02:55",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5404747364030276,
+            0.45952526359697216
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 465,
+            "Daily_Time_Spent_on_Site": 74.88,
+            "Age": 27.0,
+            "Area_Income": 67240.25,
+            "Daily_Internet_Usage": 175.17,
+            "Ad_Topic_Line": "Organized empowering policy",
+            "City": "Sarahton",
+            "Gender": "Male",
+            "Country": "Sudan",
+            "Timestamp": "17-04-2016 06:58",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5414890599934911,
+            0.4585109400065088
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 852,
+            "Daily_Time_Spent_on_Site": 55.74,
+            "Age": 37.0,
+            "Area_Income": 26130.93,
+            "Daily_Internet_Usage": 124.34,
+            "Ad_Topic_Line": "Networked asymmetric infrastructure",
+            "City": "Lake Michelle",
+            "Gender": "Male",
+            "Country": "Hong Kong",
+            "Timestamp": "11-02-2016 16:45",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5511905398741582,
+            0.4488094601258419
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 261,
+            "Daily_Time_Spent_on_Site": 73.84,
+            "Age": 31.0,
+            "Area_Income": 42042.95,
+            "Daily_Internet_Usage": 121.05,
+            "Ad_Topic_Line": "Programmable uniform productivity",
+            "City": "South Jasminebury",
+            "Gender": "Female",
+            "Country": "Albania",
+            "Timestamp": "18-06-2016 17:23",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5545273913747155,
+            0.44547260862528437
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 486,
+            "Daily_Time_Spent_on_Site": 50.6,
+            "Age": 30.0,
+            "Area_Income": 34191.13,
+            "Daily_Internet_Usage": 129.88,
+            "Ad_Topic_Line": "Realigned reciprocal framework",
+            "City": "New Daniellefort",
+            "Gender": "Male",
+            "Country": "United States of America",
+            "Timestamp": "03-05-2016 12:57",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5472614660487762,
+            0.45273853395122376
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 168,
+            "Daily_Time_Spent_on_Site": 59.59,
+            "Age": 42.0,
+            "Area_Income": 43662.1,
+            "Daily_Internet_Usage": 104.78,
+            "Ad_Topic_Line": "Re-engineered demand-driven capacity",
+            "City": "Samanthaland",
+            "Gender": "Male",
+            "Country": "Brazil",
+            "Timestamp": "06-07-2016 18:36",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5426707986166944,
+            0.4573292013833058
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 954,
+            "Daily_Time_Spent_on_Site": 72.82,
+            "Age": 34.0,
+            "Area_Income": 75769.82,
+            "Daily_Internet_Usage": 191.82,
+            "Ad_Topic_Line": "User-centric discrete success",
+            "City": "Jonesmouth",
+            "Gender": "Male",
+            "Country": "Czech Republic",
+            "Timestamp": "27-01-2016 16:06",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5546148506004744,
+            0.44538514939952556
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 447,
+            "Daily_Time_Spent_on_Site": 32.84,
+            "Age": 40.0,
+            "Area_Income": 41232.89,
+            "Daily_Internet_Usage": 171.72,
+            "Ad_Topic_Line": "Triple-buffered 3rdgeneration migration",
+            "City": "New Keithburgh",
+            "Gender": "Female",
+            "Country": "Trinidad and Tobago",
+            "Timestamp": "10-03-2016 01:36",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5285699156688121,
+            0.4714300843311879
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 139,
+            "Daily_Time_Spent_on_Site": 75.8,
+            "Age": 38.0,
+            "Area_Income": 70575.6,
+            "Daily_Internet_Usage": 146.19,
+            "Ad_Topic_Line": "Progressive clear-thinking open architecture",
+            "City": "Ashleychester",
+            "Gender": "Male",
+            "Country": "Thailand",
+            "Timestamp": "18-04-2016 11:23",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5546966410547529,
+            0.4453033589452472
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 684,
+            "Daily_Time_Spent_on_Site": 44.15,
+            "Age": 28.0,
+            "Area_Income": 48867.67,
+            "Daily_Internet_Usage": 141.96,
+            "Ad_Topic_Line": "Proactive secondary monitoring",
+            "City": "Salazarbury",
+            "Gender": "Male",
+            "Country": "Martinique",
+            "Timestamp": "22-01-2016 15:03",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5239571962135761,
+            0.47604280378642394
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 665,
+            "Daily_Time_Spent_on_Site": 48.26,
+            "Age": 50.0,
+            "Area_Income": 43573.66,
+            "Daily_Internet_Usage": 122.45,
+            "Ad_Topic_Line": "User-centric intermediate knowledge user",
+            "City": "South Margaret",
+            "Gender": "Male",
+            "Country": "Liechtenstein",
+            "Timestamp": "18-06-2016 22:31",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5237169721040545,
+            0.4762830278959454
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 882,
+            "Daily_Time_Spent_on_Site": 67.39,
+            "Age": 44.0,
+            "Area_Income": 51257.26,
+            "Daily_Internet_Usage": 107.19,
+            "Ad_Topic_Line": "Realigned intermediate application",
+            "City": "Josephberg",
+            "Gender": "Female",
+            "Country": "Armenia",
+            "Timestamp": "24-01-2016 13:41",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5450195438528844,
+            0.45498045614711563
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 440,
+            "Daily_Time_Spent_on_Site": 76.24,
+            "Age": 27.0,
+            "Area_Income": 63976.44,
+            "Daily_Internet_Usage": 214.42,
+            "Ad_Topic_Line": "Monitored dynamic instruction set",
+            "City": "Munozberg",
+            "Gender": "Female",
+            "Country": "Puerto Rico",
+            "Timestamp": "07-06-2016 01:29",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5374246628127376,
+            0.46257533718726235
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 1004,
+            "Daily_Time_Spent_on_Site": 72.97,
+            "Age": 30.0,
+            "Area_Income": 71384.57,
+            "Daily_Internet_Usage": 208.58,
+            "Ad_Topic_Line": "Fundamental modular algorithm",
+            "City": "Duffystad",
+            "Gender": "Male",
+            "Country": "Lebanon",
+            "Timestamp": "11-02-2016 21:49",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5511437730591585,
+            0.44885622694084154
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 532,
+            "Daily_Time_Spent_on_Site": 89.37,
+            "Age": 34.0,
+            "Area_Income": 42760.22,
+            "Daily_Internet_Usage": 162.03,
+            "Ad_Topic_Line": "Compatible dedicated productivity",
+            "City": "Port Stacey",
+            "Gender": "Male",
+            "Country": "Australia",
+            "Timestamp": "16-04-2016 12:26",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5393542899598975,
+            0.4606457100401025
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 55,
+            "Daily_Time_Spent_on_Site": 80.6,
+            "Age": 31.0,
+            "Area_Income": 67479.62,
+            "Daily_Internet_Usage": 177.55,
+            "Ad_Topic_Line": "Sharable bottom-line solution",
+            "City": "Thomasview",
+            "Gender": "Female",
+            "Country": "Croatia",
+            "Timestamp": "07-04-2016 03:56",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5425715499598751,
+            0.4574284500401248
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 120,
+            "Daily_Time_Spent_on_Site": 86.19,
+            "Age": 31.0,
+            "Area_Income": 57669.41,
+            "Daily_Internet_Usage": 210.26,
+            "Ad_Topic_Line": "Pre-emptive executive knowledgebase",
+            "City": "Lopezmouth",
+            "Gender": "Male",
+            "Country": "Greece",
+            "Timestamp": "08-05-2016 12:51",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5241886708997112,
+            0.4758113291002886
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 529,
+            "Daily_Time_Spent_on_Site": 43.65,
+            "Age": 39.0,
+            "Area_Income": 63649.04,
+            "Daily_Internet_Usage": 138.87,
+            "Ad_Topic_Line": "Business-focused background synergy",
+            "City": "North Aaronburgh",
+            "Gender": "Female",
+            "Country": "Western Sahara",
+            "Timestamp": "08-05-2016 22:24",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5297748707134275,
+            0.4702251292865724
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 25,
+            "Daily_Time_Spent_on_Site": 78.74,
+            "Age": 28.0,
+            "Area_Income": 64828.0,
+            "Daily_Internet_Usage": 204.79,
+            "Ad_Topic_Line": "Public-key foreground groupware",
+            "City": "Port Danielleberg",
+            "Gender": "Male",
+            "Country": "Monaco",
+            "Timestamp": "27-05-2016 15:25",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5370082227404814,
+            0.4629917772595184
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 72,
+            "Daily_Time_Spent_on_Site": 55.35,
+            "Age": 39.0,
+            "Area_Income": 75509.61,
+            "Daily_Internet_Usage": 153.17,
+            "Ad_Topic_Line": "De-engineered object-oriented protocol",
+            "City": "East Tammie",
+            "Gender": "Male",
+            "Country": "Cook Islands",
+            "Timestamp": "08-03-2016 00:37",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5513790213438455,
+            0.44862097865615436
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 44,
+            "Daily_Time_Spent_on_Site": 80.47,
+            "Age": 25.0,
+            "Area_Income": 57519.64,
+            "Daily_Internet_Usage": 204.86,
+            "Ad_Topic_Line": "Reduced global support",
+            "City": "Jamesberg",
+            "Gender": "Female",
+            "Country": "Niger",
+            "Timestamp": "11-02-2016 13:26",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5242515536015602,
+            0.47574844639843983
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 249,
+            "Daily_Time_Spent_on_Site": 42.44,
+            "Age": 56.0,
+            "Area_Income": 43450.11,
+            "Daily_Internet_Usage": 168.27,
+            "Ad_Topic_Line": "Profit-focused attitude-oriented task-force",
+            "City": "Petersonfurt",
+            "Gender": "Female",
+            "Country": "Tajikistan",
+            "Timestamp": "10-02-2016 15:23",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5311296951227545,
+            0.46887030487724535
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 394,
+            "Daily_Time_Spent_on_Site": 79.97,
+            "Age": 44.0,
+            "Area_Income": 70449.04,
+            "Daily_Internet_Usage": 216.0,
+            "Ad_Topic_Line": "Programmable empowering middleware",
+            "City": "Mariebury",
+            "Gender": "Female",
+            "Country": "China",
+            "Timestamp": "13-07-2016 01:48",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5326739540698628,
+            0.4673260459301372
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 703,
+            "Daily_Time_Spent_on_Site": 73.88,
+            "Age": 29.0,
+            "Area_Income": 63109.74,
+            "Daily_Internet_Usage": 233.61,
+            "Ad_Topic_Line": "Digitized zero-defect implementation",
+            "City": "Kennethview",
+            "Gender": "Female",
+            "Country": "Saint Helena",
+            "Timestamp": "04-01-2016 06:37",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5393204322461805,
+            0.4606795677538194
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 915,
+            "Daily_Time_Spent_on_Site": 56.91,
+            "Age": 50.0,
+            "Area_Income": 21773.22,
+            "Daily_Internet_Usage": 174.88829145728644,
+            "Ad_Topic_Line": "Team-oriented executive core",
+            "City": "West Randy",
+            "Gender": "Female",
+            "Country": "Norfolk Island",
+            "Timestamp": "01-04-2016 05:17",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.543463636638561,
+            0.4565363633614388
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 972,
+            "Daily_Time_Spent_on_Site": 60.75,
+            "Age": 42.0,
+            "Area_Income": 69775.75,
+            "Daily_Internet_Usage": 247.05,
+            "Ad_Topic_Line": "Fully-configurable systemic productivity",
+            "City": "Garrettborough",
+            "Gender": "Male",
+            "Country": "Guyana",
+            "Timestamp": "19-02-2016 13:26",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5377956165444313,
+            0.4622043834555685
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 198,
+            "Daily_Time_Spent_on_Site": 73.41,
+            "Age": 31.0,
+            "Area_Income": 73049.3,
+            "Daily_Internet_Usage": 201.26,
+            "Ad_Topic_Line": "Profound executive flexibility",
+            "City": "Hollyfurt",
+            "Gender": "Male",
+            "Country": "Guam",
+            "Timestamp": "16-01-2016 08:01",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5526207937856626,
+            0.4473792062143374
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 541,
+            "Daily_Time_Spent_on_Site": 84.53,
+            "Age": 35.0,
+            "Area_Income": 54773.99,
+            "Daily_Internet_Usage": 236.29,
+            "Ad_Topic_Line": "User-centric composite contingency",
+            "City": "Brownview",
+            "Gender": "Female",
+            "Country": "Myanmar",
+            "Timestamp": "26-03-2016 00:32",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5222736014036494,
+            0.4777263985963504
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 355,
+            "Daily_Time_Spent_on_Site": 79.54,
+            "Age": 44.0,
+            "Area_Income": 70492.6,
+            "Daily_Internet_Usage": 217.68,
+            "Ad_Topic_Line": "Centralized multi-state hierarchy",
+            "City": "Sandraland",
+            "Gender": "Male",
+            "Country": "Cambodia",
+            "Timestamp": "05-01-2016 16:34",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5324445512693962,
+            0.4675554487306039
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 323,
+            "Daily_Time_Spent_on_Site": 90.97,
+            "Age": 37.0,
+            "Area_Income": 54520.14,
+            "Daily_Internet_Usage": 180.77,
+            "Ad_Topic_Line": "Multi-lateral empowering throughput",
+            "City": "Kimberlytown",
+            "Gender": "Female",
+            "Country": "Congo",
+            "Timestamp": "16-02-2016 18:21",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5306735342477847,
+            0.4693264657522154
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 858,
+            "Daily_Time_Spent_on_Site": 60.39,
+            "Age": 45.0,
+            "Area_Income": 38987.42,
+            "Daily_Internet_Usage": 108.25,
+            "Ad_Topic_Line": "Front-line methodical utilization",
+            "City": "Port Christina",
+            "Gender": "Male",
+            "Country": "Switzerland",
+            "Timestamp": "02-03-2016 15:39",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.543125261010115,
+            0.45687473898988484
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 728,
+            "Daily_Time_Spent_on_Site": 76.76,
+            "Age": 25.0,
+            "Area_Income": 50468.36,
+            "Daily_Internet_Usage": 230.77,
+            "Ad_Topic_Line": "Secured uniform instruction set",
+            "City": "Kylieview",
+            "Gender": "Male",
+            "Country": "Niue",
+            "Timestamp": "26-05-2016 13:28",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5212589397621794,
+            0.4787410602378204
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 235,
+            "Daily_Time_Spent_on_Site": 37.32,
+            "Age": 50.0,
+            "Area_Income": 56735.14,
+            "Daily_Internet_Usage": 199.25,
+            "Ad_Topic_Line": "Versatile dedicated software",
+            "City": "New Nancy",
+            "Gender": "Male",
+            "Country": "Chad",
+            "Timestamp": "30-03-2016 23:40",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5411754229250744,
+            0.45882457707492563
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 988,
+            "Daily_Time_Spent_on_Site": 70.29,
+            "Age": 31.0,
+            "Area_Income": 56974.51,
+            "Daily_Internet_Usage": 254.65,
+            "Ad_Topic_Line": "Balanced responsive open system",
+            "City": "New Frankshire",
+            "Gender": "Male",
+            "Country": "Norfolk Island",
+            "Timestamp": "30-03-2016 14:36",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5314643335576298,
+            0.46853566644237016
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 948,
+            "Daily_Time_Spent_on_Site": 44.72,
+            "Age": 46.0,
+            "Area_Income": 40468.53,
+            "Daily_Internet_Usage": 174.88829145728644,
+            "Ad_Topic_Line": "Cross-group systemic customer loyalty",
+            "City": "North Jenniferburgh",
+            "Gender": "Male",
+            "Country": "Grenada",
+            "Timestamp": "12-03-2016 02:48",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5333371306543481,
+            0.4666628693456519
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 942,
+            "Daily_Time_Spent_on_Site": 78.41,
+            "Age": 33.0,
+            "Area_Income": 55368.67,
+            "Daily_Internet_Usage": 248.23,
+            "Ad_Topic_Line": "Multi-lateral 24/7 Internet solution",
+            "City": "Harmonhaven",
+            "Gender": "Male",
+            "Country": "Mozambique",
+            "Timestamp": "03-06-2016 04:51",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5253494422684384,
+            0.47465055773156173
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 906,
+            "Daily_Time_Spent_on_Site": 35.66,
+            "Age": 45.0,
+            "Area_Income": 46197.59,
+            "Daily_Internet_Usage": 151.72,
+            "Ad_Topic_Line": "Exclusive cohesive intranet",
+            "City": "Port Beth",
+            "Gender": "Female",
+            "Country": "Peru",
+            "Timestamp": "29-04-2016 14:08",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5235234562332608,
+            0.4764765437667393
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 299,
+            "Daily_Time_Spent_on_Site": 72.07,
+            "Age": 31.0,
+            "Area_Income": 69710.51,
+            "Daily_Internet_Usage": 226.45,
+            "Ad_Topic_Line": "Grass-roots eco-centric instruction set",
+            "City": "Port Jessicamouth",
+            "Gender": "Female",
+            "Country": "Chile",
+            "Timestamp": "16-04-2016 16:38",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5498340153738215,
+            0.45016598462617835
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 60,
+            "Daily_Time_Spent_on_Site": 85.61,
+            "Age": 27.0,
+            "Area_Income": 47708.42,
+            "Daily_Internet_Usage": 183.43,
+            "Ad_Topic_Line": "Customer-focused empowering ability",
+            "City": "Lake Amy",
+            "Gender": "Female",
+            "Country": "Burundi",
+            "Timestamp": "30-04-2016 08:07",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5243386688358175,
+            0.4756613311641825
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 327,
+            "Daily_Time_Spent_on_Site": 36.87,
+            "Age": 36.0,
+            "Area_Income": 29398.61,
+            "Daily_Internet_Usage": 195.91,
+            "Ad_Topic_Line": "Self-enabling incremental collaboration",
+            "City": "New Rebecca",
+            "Gender": "Female",
+            "Country": "Anguilla",
+            "Timestamp": "28-01-2016 11:50",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5398714491247736,
+            0.4601285508752264
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 528,
+            "Daily_Time_Spent_on_Site": 66.14,
+            "Age": 41.0,
+            "Area_Income": 78092.95,
+            "Daily_Internet_Usage": 165.27,
+            "Ad_Topic_Line": "Re-engineered impactful software",
+            "City": "North Isabellaville",
+            "Gender": "Female",
+            "Country": "Western Sahara",
+            "Timestamp": "23-03-2016 08:52",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5524802962391714,
+            0.4475197037608286
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 943,
+            "Daily_Time_Spent_on_Site": 83.98,
+            "Age": 36.0,
+            "Area_Income": 68305.91,
+            "Daily_Internet_Usage": 194.62,
+            "Ad_Topic_Line": "Profit-focused secondary portal",
+            "City": "West Gregburgh",
+            "Gender": "Female",
+            "Country": "Zimbabwe",
+            "Timestamp": "24-02-2016 00:44",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5402192371244726,
+            0.45978076287552755
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 542,
+            "Daily_Time_Spent_on_Site": 72.03,
+            "Age": 34.0,
+            "Area_Income": 70783.94,
+            "Daily_Internet_Usage": 230.95,
+            "Ad_Topic_Line": "Up-sized bi-directional infrastructure",
+            "City": "Greerton",
+            "Gender": "Male",
+            "Country": "Malta",
+            "Timestamp": "05-07-2016 22:33",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5486758667400098,
+            0.4513241332599901
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 650,
+            "Daily_Time_Spent_on_Site": 46.43,
+            "Age": 28.0,
+            "Area_Income": 53922.43,
+            "Daily_Internet_Usage": 137.2,
+            "Ad_Topic_Line": "Reverse-engineered background Graphic Interface",
+            "City": "Brianland",
+            "Gender": "Male",
+            "Country": "Ethiopia",
+            "Timestamp": "25-04-2016 03:18",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5240511935190678,
+            0.4759488064809322
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 866,
+            "Daily_Time_Spent_on_Site": 91.37,
+            "Age": 45.0,
+            "Area_Income": 51920.49,
+            "Daily_Internet_Usage": 182.65,
+            "Ad_Topic_Line": "Re-engineered composite moratorium",
+            "City": "Lawsonshire",
+            "Gender": "Male",
+            "Country": "Kazakhstan",
+            "Timestamp": "01-04-2016 07:37",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5364585891031334,
+            0.46354141089686657
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 597,
+            "Daily_Time_Spent_on_Site": 49.84,
+            "Age": 38.0,
+            "Area_Income": 67781.31,
+            "Daily_Internet_Usage": 135.24,
+            "Ad_Topic_Line": "Phased hybrid superstructure",
+            "City": "Jenniferhaven",
+            "Gender": "Male",
+            "Country": "United Arab Emirates",
+            "Timestamp": "18-05-2016 03:19",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5389296348348319,
+            0.4610703651651681
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 543,
+            "Daily_Time_Spent_on_Site": 77.47,
+            "Age": 36.0,
+            "Area_Income": 70510.59,
+            "Daily_Internet_Usage": 222.91,
+            "Ad_Topic_Line": "Assimilated actuating policy",
+            "City": "Hatfieldshire",
+            "Gender": "Male",
+            "Country": "Jamaica",
+            "Timestamp": "14-03-2016 03:29",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5434611477407439,
+            0.456538852259256
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 783,
+            "Daily_Time_Spent_on_Site": 80.55,
+            "Age": 35.0,
+            "Area_Income": 68016.9,
+            "Daily_Internet_Usage": 219.91,
+            "Ad_Topic_Line": "Extended grid-enabled hierarchy",
+            "City": "Port Brittanyville",
+            "Gender": "Female",
+            "Country": "Peru",
+            "Timestamp": "28-03-2016 23:01",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5397191978474978,
+            0.4602808021525024
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 305,
+            "Daily_Time_Spent_on_Site": 77.56,
+            "Age": 38.0,
+            "Area_Income": 63336.85,
+            "Daily_Internet_Usage": 130.83,
+            "Ad_Topic_Line": "Right-sized multi-tasking solution",
+            "City": "Port Angelamouth",
+            "Gender": "Male",
+            "Country": "Uganda",
+            "Timestamp": "19-05-2016 03:52",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5536624443976167,
+            0.4463375556023832
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 318,
+            "Daily_Time_Spent_on_Site": 75.84,
+            "Age": 21.0,
+            "Area_Income": 48537.18,
+            "Daily_Internet_Usage": 186.98,
+            "Ad_Topic_Line": "Reactive bi-directional workforce",
+            "City": "Hayesmouth",
+            "Gender": "Female",
+            "Country": "Cyprus",
+            "Timestamp": "07-02-2016 07:41",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5214031003669091,
+            0.47859689963309104
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 481,
+            "Daily_Time_Spent_on_Site": 39.56,
+            "Age": 41.0,
+            "Area_Income": 59243.46,
+            "Daily_Internet_Usage": 143.13,
+            "Ad_Topic_Line": "Ameliorated exuding solution",
+            "City": "Port Mitchell",
+            "Gender": "Male",
+            "Country": "Western Sahara",
+            "Timestamp": "13-05-2016 11:57",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5247111439599895,
+            0.4752888560400105
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 493,
+            "Daily_Time_Spent_on_Site": 50.19,
+            "Age": 40.0,
+            "Area_Income": 33987.27,
+            "Daily_Internet_Usage": 117.3,
+            "Ad_Topic_Line": "Progressive uniform budgetary management",
+            "City": "Lake Stephenborough",
+            "Gender": "Female",
+            "Country": "Thailand",
+            "Timestamp": "25-03-2016 19:02",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5399650170382969,
+            0.46003498296170275
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 265,
+            "Daily_Time_Spent_on_Site": 43.02,
+            "Age": 44.0,
+            "Area_Income": 50199.77,
+            "Daily_Internet_Usage": 125.22,
+            "Ad_Topic_Line": "Configurable bottom-line application",
+            "City": "West Lindseybury",
+            "Gender": "Female",
+            "Country": "Thailand",
+            "Timestamp": "13-04-2016 05:42",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5200968525703552,
+            0.47990314742964474
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 110,
+            "Daily_Time_Spent_on_Site": 66.63,
+            "Age": 60.0,
+            "Area_Income": 60333.38,
+            "Daily_Internet_Usage": 176.98,
+            "Ad_Topic_Line": "User-friendly upward-trending intranet",
+            "City": "New Lucasburgh",
+            "Gender": "Female",
+            "Country": "Madagascar",
+            "Timestamp": "16-01-2016 23:37",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.522382892091861,
+            0.4776171079081392
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 468,
+            "Daily_Time_Spent_on_Site": 45.7,
+            "Age": 33.0,
+            "Area_Income": 67384.31,
+            "Daily_Internet_Usage": 151.12,
+            "Ad_Topic_Line": "Self-enabling multimedia system engine",
+            "City": "New Williammouth",
+            "Gender": "Male",
+            "Country": "Switzerland",
+            "Timestamp": "26-05-2016 10:33",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5352011111189025,
+            0.4647988888810976
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 711,
+            "Daily_Time_Spent_on_Site": 81.9,
+            "Age": 41.0,
+            "Area_Income": 66773.83,
+            "Daily_Internet_Usage": 225.47,
+            "Ad_Topic_Line": "Multi-channeled 3rdgeneration model",
+            "City": "Garciatown",
+            "Gender": "Female",
+            "Country": "Mauritius",
+            "Timestamp": "11-06-2016 06:47",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5313762772344757,
+            0.46862372276552444
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 526,
+            "Daily_Time_Spent_on_Site": 67.94,
+            "Age": 43.0,
+            "Area_Income": 68447.17,
+            "Daily_Internet_Usage": 128.16,
+            "Ad_Topic_Line": "Assimilated next generation firmware",
+            "City": "North Kimberly",
+            "Gender": "Female",
+            "Country": "Morocco",
+            "Timestamp": "01-05-2016 00:23",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5485929388686468,
+            0.45140706113135304
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 256,
+            "Daily_Time_Spent_on_Site": 56.7,
+            "Age": 48.0,
+            "Area_Income": 62784.85,
+            "Daily_Internet_Usage": 123.13,
+            "Ad_Topic_Line": "Progressive non-volatile neural-net",
+            "City": "Port Crystal",
+            "Gender": "Female",
+            "Country": "France",
+            "Timestamp": "09-01-2016 04:53",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5283593064380678,
+            0.47164069356193217
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 260,
+            "Daily_Time_Spent_on_Site": 83.47,
+            "Age": 39.0,
+            "Area_Income": 64447.77,
+            "Daily_Internet_Usage": 226.11,
+            "Ad_Topic_Line": "Total directional approach",
+            "City": "New Brandy",
+            "Gender": "Female",
+            "Country": "Turkey",
+            "Timestamp": "15-05-2016 20:48",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5303425161266477,
+            0.46965748387335243
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 545,
+            "Daily_Time_Spent_on_Site": 78.15,
+            "Age": 33.0,
+            "Area_Income": 72042.85,
+            "Daily_Internet_Usage": 194.37,
+            "Ad_Topic_Line": "Ergonomic neutral portal",
+            "City": "New Maria",
+            "Gender": "Female",
+            "Country": "Algeria",
+            "Timestamp": "07-03-2016 22:32",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5488173105641714,
+            0.4511826894358286
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 405,
+            "Daily_Time_Spent_on_Site": 39.34,
+            "Age": 43.0,
+            "Area_Income": 31215.88,
+            "Daily_Internet_Usage": 148.93,
+            "Ad_Topic_Line": "Proactive radical support",
+            "City": "Alvaradoport",
+            "Gender": "Female",
+            "Country": "Bangladesh",
+            "Timestamp": "17-04-2016 21:39",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5322166457238476,
+            0.4677833542761525
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 428,
+            "Daily_Time_Spent_on_Site": 60.07,
+            "Age": 42.0,
+            "Area_Income": 65963.37,
+            "Daily_Internet_Usage": 120.75,
+            "Ad_Topic_Line": "Total user-facing hierarchy",
+            "City": "South Vincentchester",
+            "Gender": "Male",
+            "Country": "United Kingdom",
+            "Timestamp": "15-04-2016 10:16",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5424134743393121,
+            0.4575865256606879
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 629,
+            "Daily_Time_Spent_on_Site": 85.77,
+            "Age": 27.0,
+            "Area_Income": 52261.73,
+            "Daily_Internet_Usage": 191.78,
+            "Ad_Topic_Line": "Implemented disintermediate attitude",
+            "City": "South Brian",
+            "Gender": "Male",
+            "Country": "Morocco",
+            "Timestamp": "09-04-2016 23:26",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5212475364821852,
+            0.4787524635178148
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 501,
+            "Daily_Time_Spent_on_Site": 73.94,
+            "Age": 27.0,
+            "Area_Income": 68333.01,
+            "Daily_Internet_Usage": 173.49,
+            "Ad_Topic_Line": "Function-based incremental standardization",
+            "City": "North Alexandra",
+            "Gender": "Female",
+            "Country": "Myanmar",
+            "Timestamp": "10-02-2016 13:46",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5432961323698213,
+            0.45670386763017856
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 432,
+            "Daily_Time_Spent_on_Site": 84.69,
+            "Age": 31.0,
+            "Area_Income": 46160.63,
+            "Daily_Internet_Usage": 231.85,
+            "Ad_Topic_Line": "Right-sized transitional parallelism",
+            "City": "Emilyfurt",
+            "Gender": "Male",
+            "Country": "Maldives",
+            "Timestamp": "07-07-2016 23:32",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5197368098718793,
+            0.4802631901281207
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 824,
+            "Daily_Time_Spent_on_Site": 79.6,
+            "Age": 39.0,
+            "Area_Income": 73392.28,
+            "Daily_Internet_Usage": 194.23,
+            "Ad_Topic_Line": "Organized global flexibility",
+            "City": "Lake Deannaborough",
+            "Gender": "Female",
+            "Country": "Rwanda",
+            "Timestamp": "22-04-2016 07:48",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5454071555695094,
+            0.45459284443049064
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 137,
+            "Daily_Time_Spent_on_Site": 38.52,
+            "Age": 38.0,
+            "Area_Income": 42581.23,
+            "Daily_Internet_Usage": 137.28,
+            "Ad_Topic_Line": "Customer-focused 24/7 concept",
+            "City": "Lesliebury",
+            "Gender": "Male",
+            "Country": "Saint Vincent and the Grenadines",
+            "Timestamp": "27-03-2016 23:59",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.522450303054567,
+            0.4775496969454329
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 357,
+            "Daily_Time_Spent_on_Site": 87.09,
+            "Age": 36.0,
+            "Area_Income": 57737.51,
+            "Daily_Internet_Usage": 221.98,
+            "Ad_Topic_Line": "Synergized coherent interface",
+            "City": "Luischester",
+            "Gender": "Male",
+            "Country": "Reunion",
+            "Timestamp": "21-04-2016 16:10",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5241599970255488,
+            0.47584000297445106
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 931,
+            "Daily_Time_Spent_on_Site": 45.01,
+            "Age": 26.0,
+            "Area_Income": 29875.8,
+            "Daily_Internet_Usage": 174.88829145728644,
+            "Ad_Topic_Line": "Virtual 5thgeneration emulation",
+            "City": "Ronniemouth",
+            "Gender": "Female",
+            "Country": "Brazil",
+            "Timestamp": "03-06-2016 21:43",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5440531109778953,
+            0.4559468890221048
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 221,
+            "Daily_Time_Spent_on_Site": 77.88,
+            "Age": 37.0,
+            "Area_Income": 55353.41,
+            "Daily_Internet_Usage": 254.57,
+            "Ad_Topic_Line": "Multi-tiered human-resource structure",
+            "City": "Melissafurt",
+            "Gender": "Female",
+            "Country": "Poland",
+            "Timestamp": "02-07-2016 00:24",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5244322459043955,
+            0.4755677540956045
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 755,
+            "Daily_Time_Spent_on_Site": 77.75,
+            "Age": 31.0,
+            "Area_Income": 59047.91,
+            "Daily_Internet_Usage": 240.64,
+            "Ad_Topic_Line": "Multi-lateral motivating circuit",
+            "City": "Coxhaven",
+            "Gender": "Male",
+            "Country": "Paraguay",
+            "Timestamp": "22-06-2016 17:19",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5305628206739245,
+            0.4694371793260754
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 595,
+            "Daily_Time_Spent_on_Site": 73.15,
+            "Age": 25.0,
+            "Area_Income": 64631.22,
+            "Daily_Internet_Usage": 211.12,
+            "Ad_Topic_Line": "Face-to-face executive encryption",
+            "City": "Lake Patrick",
+            "Gender": "Male",
+            "Country": "Peru",
+            "Timestamp": "29-01-2016 07:14",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5384446030834372,
+            0.4615553969165629
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 558,
+            "Daily_Time_Spent_on_Site": 72.53,
+            "Age": 37.0,
+            "Area_Income": 73474.82,
+            "Daily_Internet_Usage": 223.93,
+            "Ad_Topic_Line": "Synchronized grid-enabled moratorium",
+            "City": "South Patrickfort",
+            "Gender": "Female",
+            "Country": "Papua New Guinea",
+            "Timestamp": "21-07-2016 10:01",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5474047200109295,
+            0.45259527998907045
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 363,
+            "Daily_Time_Spent_on_Site": 62.14,
+            "Age": 41.0,
+            "Area_Income": 59397.89,
+            "Daily_Internet_Usage": 110.93,
+            "Ad_Topic_Line": "Upgradable multi-tasking initiative",
+            "City": "North Andrewstad",
+            "Gender": "Male",
+            "Country": "Angola",
+            "Timestamp": "23-01-2016 18:59",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5426467550969555,
+            0.4573532449030444
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 589,
+            "Daily_Time_Spent_on_Site": 78.29,
+            "Age": 38.0,
+            "Area_Income": 57844.96,
+            "Daily_Internet_Usage": 252.07,
+            "Ad_Topic_Line": "Networked regional Local Area Network",
+            "City": "Villanuevaton",
+            "Gender": "Female",
+            "Country": "Liberia",
+            "Timestamp": "05-01-2016 20:58",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5257227325759031,
+            0.47427726742409687
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 208,
+            "Daily_Time_Spent_on_Site": 84.08,
+            "Age": 30.0,
+            "Area_Income": 62336.39,
+            "Daily_Internet_Usage": 187.36,
+            "Ad_Topic_Line": "Face-to-face intermediate approach",
+            "City": "Carterburgh",
+            "Gender": "Male",
+            "Country": "Fiji",
+            "Timestamp": "13-01-2016 02:58",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5318414199620918,
+            0.46815858003790817
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 780,
+            "Daily_Time_Spent_on_Site": 56.46,
+            "Age": 26.0,
+            "Area_Income": 66187.58,
+            "Daily_Internet_Usage": 151.63,
+            "Ad_Topic_Line": "Ameliorated leadingedge help-desk",
+            "City": "South Lisa",
+            "Gender": "Female",
+            "Country": "Albania",
+            "Timestamp": "07-04-2016 18:52",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5362668321309692,
+            0.46373316786903085
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 334,
+            "Daily_Time_Spent_on_Site": 56.3,
+            "Age": 49.0,
+            "Area_Income": 67430.96,
+            "Daily_Internet_Usage": 135.24,
+            "Ad_Topic_Line": "Fully-configurable high-level implementation",
+            "City": "South Meghan",
+            "Gender": "Male",
+            "Country": "New Caledonia",
+            "Timestamp": "03-02-2016 19:12",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5302717308190786,
+            0.4697282691809214
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 210,
+            "Daily_Time_Spent_on_Site": 40.15,
+            "Age": 38.0,
+            "Area_Income": 38745.29,
+            "Daily_Internet_Usage": 134.88,
+            "Ad_Topic_Line": "Exclusive disintermediate task-force",
+            "City": "Joechester",
+            "Gender": "Male",
+            "Country": "Sao Tome and Principe",
+            "Timestamp": "27-06-2016 18:37",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 1,
+        "probabilities": [
+            0.5267296714215138,
+            0.47327032857848617
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 350,
+            "Daily_Time_Spent_on_Site": 76.2,
+            "Age": 37.0,
+            "Area_Income": 75044.35,
+            "Daily_Internet_Usage": 178.51,
+            "Ad_Topic_Line": "Multi-layered fresh-thinking process improvement",
+            "City": "Karenton",
+            "Gender": "Female",
+            "Country": "Barbados",
+            "Timestamp": "29-02-2016 19:26",
+            "Clicked_on_Ad": 0
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5523283316676333,
+            0.44767166833236677
+        ]
+    },
+    {
+        "input_data": {
+            "Unnamed:_0": 78,
+            "Daily_Time_Spent_on_Site": 56.14,
+            "Age": 38.0,
+            "Area_Income": 32689.04,
+            "Daily_Internet_Usage": 113.53,
+            "Ad_Topic_Line": "Devolved tangible approach",
+            "City": "Lake Edward",
+            "Gender": "Male",
+            "Country": "Ireland",
+            "Timestamp": "03-02-2016 07:59",
+            "Clicked_on_Ad": 1
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5486844634727758,
+            0.4513155365272243
+        ]
+    }
+]
