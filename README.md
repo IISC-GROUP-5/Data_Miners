@@ -1,4 +1,4 @@
-#**AdClick_Gender_Classification.ipynb**
+## AdClick_Gender_Classification.ipynb
 This notebooks  contains 10 functions which are :
 
 1. **load_and_preprocess_data(file_path)** : It takes one argument file_path and return preprocessed data. The preprocessing involves :
@@ -51,4 +51,4 @@ This notebooks  contains 10 functions which are :
    - Since we have 2 target values here and 2 models options, a total of 4 model files are generated
 
 ## Inference_file.ipynb
-   - Calls the 4 model file and generate 4 model inference reports in .json files.
+   - Calls the 4 model file and generate 4 model inference reports in .json files. The output are rescaled to their original values before creating an Inference_Report
