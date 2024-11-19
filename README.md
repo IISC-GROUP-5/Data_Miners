@@ -46,3 +46,11 @@ This notebooks  contains 10 functions which are :
   - Age
   - Area Income
   - Daily internet usage
+
+ **Model files**
+
+   - Generate separate models for each Target values
+   - Since we have 2 target values here and 2 models options, a total of 4 model files are generated
+
+## Inference_file.ipynb
+   - Calls the 4 model file and generate 4 model inference reports in .json files.
