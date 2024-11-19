@@ -1,0 +1,28 @@
+[
+    {
+        "input_data": {
+            "Daily_Time_Spent_on_Site": 0.24241574378030087,
+            "Age": -0.10489522496236243,
+            "Area_Income": 0.5312853212580656,
+            "Daily_Internet_Usage": 1.7131835282734242
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.536659498857106,
+            0.46334050114289377
+        ]
+    },
+    {
+        "input_data": {
+            "Daily_Time_Spent_on_Site": 0.9753952289815778,
+            "Age": -0.7726028090328947,
+            "Area_Income": -0.20815482390908543,
+            "Daily_Internet_Usage": 2.721932667722427
+        },
+        "prediction": 0,
+        "probabilities": [
+            0.5366595258532435,
+            0.4633404741467565
+        ]
+    }
+]
