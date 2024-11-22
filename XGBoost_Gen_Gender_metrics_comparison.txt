@@ -1,0 +1,8 @@
+Metrics Comparison for Xgboost_gen - Gender
+Metric              Before Tuning       After Tuning        
+Accuracy            0.4802              0.4505              
+Precision           0.5208              0.4783              
+Recall              0.4587              0.2018              
+F1 Score            0.4878              0.2839              
+ROC-AUC             0.4820              0.4719              
+
