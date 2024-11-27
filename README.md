@@ -1,3 +1,4 @@
+
 # Ad Click Prediction and Gender Classification with Behavioral Data
 
 ## Overview
@@ -85,7 +86,28 @@ By leveraging state-of-the-art algorithms and robust deployment pipelines, this 
 
 ---
 
+
 ## Production Architecture
+```mermaid
+graph TD
+A[User Interface - Streamlit] -->|Manual or Batch Input| B[Preprocessing Layer]
+B --> C[Model Selection]
+C -->|Load Model Dynamically| D[Inference Engine]
+D --> E[Prediction Results]
+E --> F[Results Storage]
+C --> G[Model Registry]
+G -->|Upload New Models| H[Dynamic Model Loader]
+```
+
+### Key Components:
+- **User Interface**: The Streamlit application provides an enhanced GUI for manual and batch predictions.
+- **Preprocessing Layer**: Handles feature scaling, encoding, and input transformations for the models.
+- **Model Selection**: Dynamically loads and manages models stored in the `models/` directory.
+- **Inference Engine**: Executes predictions based on user input or uploaded datasets.
+- **Results Storage**: Saves prediction results to the `results/` directory for future use.
+- **Model Registry**: Manages the storage and retrieval of ML models.
+- **Dynamic Model Loader**: Allows uploading and integrating new models without redeployment.
+
 ```mermaid
 graph TD
 A[User Interface] --> B[Load Balancer]
