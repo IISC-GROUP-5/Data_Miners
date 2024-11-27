@@ -63,18 +63,27 @@ The project integrates state-of-the-art algorithms, a modularized codebase, and 
 
 ---
 
+
 ## Results and Insights
+
 ### Gender Classification:
 | **Model**         | **Accuracy** | **Precision** | **Recall** | **F1-Score** | **ROC-AUC** |
 |--------------------|--------------|---------------|------------|--------------|-------------|
-| SVM               | 94.87%       | 0.945         | 0.952      | 0.948        | 0.946       |
-| Naive Bayes       | 96.04%       | 0.962         | 0.958      | 0.960        | 0.959       |
+| Logistic Regression| 49.50%      | 0.667         | 0.128      | 0.215        | 0.471       |
+| Decision Tree      | 47.52%      | 0.517         | 0.431      | 0.470        | 0.479       |
+| Naive Bayes        | 45.05%      | 0.458         | 0.101      | 0.165        | 0.524       |
+| SVM                | 51.98%      | 0.556         | 0.551      | 0.553        | 0.480       |
+| XGBoost            | 48.02%      | 0.521         | 0.459      | 0.488        | 0.482       |
+
 
 ### Ad Click Prediction:
 | **Model**         | **Accuracy** | **Precision** | **Recall** | **F1-Score** | **ROC-AUC** |
 |--------------------|--------------|---------------|------------|--------------|-------------|
-| Logistic Regression| 95.21%      | 0.948         | 0.956      | 0.952        | 0.951       |
-| XGBoost           | 96.04%       | 0.962         | 0.962      | 0.962        | 0.960       |
+| Logistic Regression| 95.05%      | 0.953         | 0.953      | 0.953        | 0.994       |
+| Decision Tree      | 94.06%      | 0.920         | 0.972      | 0.945        | 0.939       |
+| Naive Bayes        | 95.54%      | 0.953         | 0.962      | 0.958        | 0.994       |
+| SVM                | 95.54%      | 0.953         | 0.962      | 0.958        | 0.992       |
+| XGBoost            | 96.04%      | 0.962         | 0.962      | 0.962        | 0.960       |
 
 ---
 
