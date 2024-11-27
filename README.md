@@ -2,60 +2,69 @@
 # Ad Click Prediction and Gender Classification with Behavioral Data
 
 ## Overview
-This project explores the application of advanced machine learning techniques to solve two critical business problems:
-1. **Gender Classification**: Identifying user demographics to enable personalized marketing strategies.
-2. **Ad Click Prediction**: Estimating the probability of user engagement with advertisements.
+This project applies advanced machine learning techniques to analyze user behavioral data for two critical business tasks:
+1. **Gender Classification**: Determining user gender to enable personalized marketing strategies.
+2. **Ad Click Prediction**: Estimating the probability of users engaging with advertisements.
 
-By leveraging state-of-the-art algorithms and robust deployment pipelines, this project bridges the gap between academic research and real-world applications.
+The project integrates state-of-the-art algorithms, a modularized codebase, and a robust deployment pipeline for real-world applicability.
 
 ---
 
 ## Objectives
-1. **Accurately classify user gender** based on behavioral data for targeted marketing.
-2. **Predict ad click likelihood** to enhance digital advertising campaigns.
-3. **Deploy scalable machine learning models** with user-friendly interfaces for seamless integration.
+1. **Enhance model accuracy** for gender classification and ad-click prediction through advanced feature engineering and algorithmic tuning.
+2. **Enable dynamic model management** for real-time inference using Streamlit and Docker.
+3. **Ensure scalable deployment** with cross-platform compatibility and automated workflows.
 
 ---
 
-## Data Summary
+## Data Description
 ### Dataset:
 - **Source**: [Kaggle - Advertising Dataset](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef/data)
-- **Features**: 10 variables, including Daily Time Spent on Site, Age, Area Income, and Daily Internet Usage.
+- **Features**: 
+  - **Numerical**: Daily Time Spent on Site, Age, Area Income, Daily Internet Usage.
+  - **Categorical**: Ad Topic Line, City, Country, Timestamp.
 - **Target Variables**:
   - Gender (binary: Female = 0, Male = 1)
   - Clicked on Ad (binary: No Click = 0, Click = 1)
 
 ### Preprocessing:
-1. **Handling Missing Data**: Imputed using median for skewed distributions and mean otherwise.
-2. **Encoding**: Applied one-hot and label encoding for categorical variables.
-3. **Feature Scaling**: Standardized numerical features to improve model convergence.
-4. **Feature Engineering**: Removed features like Ad Topic Line and Timestamp due to their irrelevance and complexity.
+1. **Data Imputation**: Median for skewed distributions and mean for symmetric ones.
+2. **Encoding**: One-hot and label encoding for categorical variables.
+3. **Feature Scaling**: Standardized numerical features to improve convergence.
+4. **Feature Engineering**: Dropped complex features like Ad Topic Line, City, Country, and Timestamp.
 
 ---
 
 ## Methodology
 ### Machine Learning Models:
-1. **Logistic Regression (LR)**: Baseline linear model for probabilistic predictions.
-2. **Decision Trees (DT)**: Non-linear model capturing complex decision boundaries.
-3. **Support Vector Machines (SVM)**: High-margin classifier for robust performance.
-4. **Naive Bayes (NB)**: Probabilistic model leveraging feature independence.
-5. **XGBoost**: State-of-the-art ensemble learning method.
+1. **Logistic Regression (LR)**: Baseline model for probabilistic predictions.
+2. **Decision Trees (DT)**: Non-linear models for interpretable decision boundaries.
+3. **Support Vector Machines (SVM)**: High-margin classifiers for robust generalization.
+4. **Naive Bayes (NB)**: Probabilistic models leveraging conditional independence.
+5. **XGBoost**: Ensemble learning model for high accuracy and scalability.
 
-### Deployment Strategy:
+### Model Evaluation Metrics:
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- ROC-AUC
+
+### Deployment and MLOps:
 1. **Streamlit Application**:
-   - Interactive UI for real-time predictions.
-   - Batch and manual inference modes.
+   - Enhanced GUI with support for manual and batch predictions.
+   - Dynamic model updates via file uploads.
 2. **Docker**:
-   - Containerization ensures consistent deployments across platforms.
-   - Facilitates scalability and reliability.
+   - Ensures consistent environments across platforms.
+   - Streamlines deployment workflows.
 3. **MLOps Pipeline**:
-   - Automated workflows for model retraining and monitoring.
-   - Dynamic model management for runtime updates.
+   - Monitors model performance and triggers retraining workflows.
+   - Automates inference and result storage processes.
 
 ---
 
-## Results and Performance
-### Gender Prediction:
+## Results and Insights
+### Gender Classification:
 | **Model**         | **Accuracy** | **Precision** | **Recall** | **F1-Score** | **ROC-AUC** |
 |--------------------|--------------|---------------|------------|--------------|-------------|
 | SVM               | 94.87%       | 0.945         | 0.952      | 0.948        | 0.946       |
@@ -67,25 +76,7 @@ By leveraging state-of-the-art algorithms and robust deployment pipelines, this 
 | Logistic Regression| 95.21%      | 0.948         | 0.956      | 0.952        | 0.951       |
 | XGBoost           | 96.04%       | 0.962         | 0.962      | 0.962        | 0.960       |
 
-### Key Observations:
-- **SVM** excels in gender classification with balanced precision and recall.
-- **XGBoost** outperforms for ad click prediction due to its ensemble approach.
-
 ---
-
-## Advanced Features
-1. **Hyperparameter Tuning**:
-   - Grid and randomized search for optimal parameters.
-   - Boosted model performance by up to 5%.
-2. **Real-Time Monitoring**:
-   - Integrated monitoring service tracks model drift and accuracy.
-   - Alerts for retraining triggered by significant performance drop.
-3. **Feature Importance Analysis**:
-   - Daily Internet Usage emerged as the most influential feature.
-   - Age and Area Income followed in importance.
-
----
-
 
 ## Production Architecture
 ```mermaid
@@ -99,24 +90,14 @@ C --> G[Model Registry]
 G -->|Upload New Models| H[Dynamic Model Loader]
 ```
 
-### Key Components:
-- **User Interface**: The Streamlit application provides an enhanced GUI for manual and batch predictions.
-- **Preprocessing Layer**: Handles feature scaling, encoding, and input transformations for the models.
-- **Model Selection**: Dynamically loads and manages models stored in the `models/` directory.
-- **Inference Engine**: Executes predictions based on user input or uploaded datasets.
-- **Results Storage**: Saves prediction results to the `results/` directory for future use.
-- **Model Registry**: Manages the storage and retrieval of ML models.
-- **Dynamic Model Loader**: Allows uploading and integrating new models without redeployment.
-
-```mermaid
-graph TD
-A[User Interface] --> B[Load Balancer]
-B --> C[API Gateway]
-C --> D[Model Service]
-D --> E[Model Registry]
-D --> F[Monitoring Service]
-E --> G[Model Inference]
-```
+### Architecture Description:
+1. **User Interface**: Streamlit provides an interactive GUI for manual and batch input processing.
+2. **Preprocessing Layer**: Handles transformations, scaling, and encoding.
+3. **Model Selection**: Dynamically loads models from the `models/` directory.
+4. **Inference Engine**: Executes predictions for both manual and batch input data.
+5. **Results Storage**: Saves prediction outputs in the `results/` directory.
+6. **Model Registry**: Maintains existing models and integrates newly uploaded ones.
+7. **Dynamic Model Loader**: Enables seamless model updates without system redeployment.
 
 ---
 
@@ -150,7 +131,7 @@ E --> G[Model Inference]
 
 ## Contributors
 - **Amrut Deshpande**: XGBoost Implementation and Optimization
-- **Dakshinamoorthy Thavamani**: Decision Tree Algorithm and Tuning
+- **Dakshinamoorthy Thavamani**: Decision Tree Development
 - **Harish Shankarachari**: Data Preprocessing and Visualization
 - **Jignesh Shah**: Feature Engineering and MLOps Integration
 - **Pratima Verma**: Logistic Regression Analysis
@@ -159,7 +140,7 @@ E --> G[Model Inference]
 ---
 
 ## Acknowledgments
-This work was guided by Prof. Sashikumaar Ganesan as part of the CCE-2024 AI & Machine Learning curriculum at IISc Bangalore. We thank the faculty and peers for their invaluable feedback.
+This project was developed under the guidance of Prof. Sashikumaar Ganesan at IISc Bangalore as part of the CCE-2024 curriculum. Special thanks to the faculty and peers for their valuable feedback.
 
 ---
 
@@ -169,4 +150,4 @@ This project is licensed under the MIT License.
 ---
 
 ## Contact
-For any inquiries or collaborations, please reach out via [GitHub Repository](https://github.com/IISC-GROUP-5/) or [Streamlit Application](https://iisc-group5.streamlit.app/).
+For inquiries or collaborations, visit our [GitHub Repository](https://github.com/IISC-GROUP-5/) or the [Streamlit Application](https://iisc-group5.streamlit.app/).
