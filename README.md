@@ -118,6 +118,7 @@ G -->|Upload New Models| H[Dynamic Model Loader]
 ├── models/
 │   ├── xgboost/               # XGBoost model files
 │   ├── svm/                   # SVM model files
+|   ├── naive_bayes/                    # Naive Bayes model files  
 │   ├── decision_tree/         # Decision Tree files
 │   └── logistic_regression/   # Logistic Regression files
 ├── notebooks/
@@ -144,7 +145,7 @@ G -->|Upload New Models| H[Dynamic Model Loader]
 - **Harish Shankarachari**: Data Preprocessing and Visualization
 - **Jignesh Shah**: Feature Engineering and MLOps Integration
 - **Pratima Verma**: Logistic Regression Analysis
-- **Sonali Maurya**: SVM Implementation and Hyperparameter Tuning
+- **Sonali Maurya**: SVM and Naive Bayes Implementation and Hyperparameter Tuning
 
 ---
 
