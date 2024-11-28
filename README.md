@@ -113,8 +113,9 @@ G -->|Upload New Models| H[Dynamic Model Loader]
 ## Repository Structure
 ```
 ├── data/
-│   ├── raw/                   # Raw dataset
-│   └── processed/             # Processed dataset
+│   ├── raw_data/                   # Raw dataset
+│   └── processed_data/             # Processed dataset
+|   └── testing_data/               # For testing Target Variables  
 ├── models/
 │   ├── xgboost/               # XGBoost model files
 │   ├── svm/                   # SVM model files
@@ -129,11 +130,6 @@ G -->|Upload New Models| H[Dynamic Model Loader]
 │   └── evaluation/            # Evaluation metrics and scripts
 ├── deployment/
 │   ├── docker/                # Docker-related files
-│   └── kubernetes/            # Kubernetes deployment configurations
-├── docs/
-│   └── api/                   # API documentation
-├── tests/
-│   └── unit/                  # Unit tests for robustness
 └── streamlit_app/             # Frontend for user interaction
 ```
 
@@ -144,7 +140,7 @@ G -->|Upload New Models| H[Dynamic Model Loader]
 - **Dakshinamoorthy Thavamani**: Decision Tree Development
 - **Harish Shankarachari**: Data Preprocessing and Visualization
 - **Jignesh Shah**: Feature Engineering and MLOps Integration
-- **Pratima Verma**: Logistic Regression Analysis
+- **Pratima Verma**: Logistic Regression Analysis and Data Visualization
 - **Sonali Maurya**: SVM and Naive Bayes Implementation and Hyperparameter Tuning
 
 ---
