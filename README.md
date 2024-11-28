@@ -113,13 +113,13 @@ G -->|Upload New Models| H[Dynamic Model Loader]
 ## Repository Structure
 ```
 ├── Data/
-│   ├── Raw_data/                   # Raw dataset
-│   └── Processed_data/             # Processed dataset
-|   └── Testing_data/               # For testing Target Variables  
+│   ├── Raw_data/              # Raw dataset
+│   └── Processed_data/        # Processed dataset
+|   └── Testing_data/          # For testing Target Variables  
 ├── Models/
 │   ├── xgboost/               # XGBoost model files
 │   ├── svm/                   # SVM model files
-|   ├── naive_bayes/                    # Naive Bayes model files  
+|   ├── naive_bayes/           # Naive Bayes model files  
 │   ├── decision_tree/         # Decision Tree files
 │   └── logistic_regression/   # Logistic Regression files
 ├── Notebooks/
@@ -128,20 +128,20 @@ G -->|Upload New Models| H[Dynamic Model Loader]
 │   ├── Preprocessing/         # Data preprocessing scripts
 │   ├── Training/              # Training pipelines
 │   └── Evaluation/            # Evaluation metrics and scripts  
-└── Streamlit/             # Frontend for user interaction
-|   ├── docker/                # Docker-related files
-|   └── python_virtual_env/    # Without docker in local machine
+└── Streamlit/                 # Frontend for user interaction
+    └── models/                # default model files
+
 ```
 
 ---
 
 ## Contributors
-- **Amrut Deshpande**: XGBoost Implementation and Optimization
-- **Dakshinamoorthy Thavamani**: Decision Tree Development
-- **Harish Shankarachari**: Data Preprocessing and Visualization
-- **Jignesh Shah**: Feature Engineering and MLOps Integration
-- **Pratima Verma**: Logistic Regression Analysis and Data Visualization
-- **Sonali Maurya**: SVM and Naive Bayes Implementation and Hyperparameter Tuning
+- **Amrut Deshpande**
+- **Dakshinamoorthy Thavamani**
+- **Harish Shankarachari**
+- **Jignesh Shah**
+- **Pratima Verma**
+- **Sonali Maurya**
 
 ---
 
@@ -156,4 +156,4 @@ This project is licensed under the MIT License.
 ---
 
 ## Contact
-For inquiries or collaborations, visit our [GitHub Repository](https://github.com/IISC-GROUP-5/) or the [Streamlit Application](https://iisc-group5.streamlit.app/).
+For inquiries or collaborations, visit our [GitHub Repository](https://github.com/IISC-GROUP-5/Data_Miners) or the [Streamlit Application](https://iisc-group5.streamlit.app/).
