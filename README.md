@@ -130,6 +130,7 @@ G -->|Upload New Models| H[Dynamic Model Loader]
 │   └── evaluation/            # Evaluation metrics and scripts
 ├── deployment/
 │   ├── docker/                # Docker-related files
+|   └── python_virtual_env/    # Without docker in local machine
 └── streamlit_app/             # Frontend for user interaction
 ```
 
