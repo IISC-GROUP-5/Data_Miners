@@ -127,11 +127,10 @@ G -->|Upload New Models| H[Dynamic Model Loader]
 ├── src/
 │   ├── preprocessing/         # Data preprocessing scripts
 │   ├── training/              # Training pipelines
-│   └── evaluation/            # Evaluation metrics and scripts
-├── deployment/
-│   ├── docker/                # Docker-related files
-|   └── python_virtual_env/    # Without docker in local machine
+│   └── evaluation/            # Evaluation metrics and scripts  
 └── streamlit_app/             # Frontend for user interaction
+|   ├── docker/                # Docker-related files
+|   └── python_virtual_env/    # Without docker in local machine
 ```
 
 ---
