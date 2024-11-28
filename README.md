@@ -112,23 +112,23 @@ G -->|Upload New Models| H[Dynamic Model Loader]
 
 ## Repository Structure
 ```
-├── data/
-│   ├── raw_data/                   # Raw dataset
-│   └── processed_data/             # Processed dataset
-|   └── testing_data/               # For testing Target Variables  
-├── models/
+├── Data/
+│   ├── Raw_data/                   # Raw dataset
+│   └── Processed_data/             # Processed dataset
+|   └── Testing_data/               # For testing Target Variables  
+├── Models/
 │   ├── xgboost/               # XGBoost model files
 │   ├── svm/                   # SVM model files
 |   ├── naive_bayes/                    # Naive Bayes model files  
 │   ├── decision_tree/         # Decision Tree files
 │   └── logistic_regression/   # Logistic Regression files
-├── notebooks/
+├── Notebooks/
 │   └── model_development.ipynb # Jupyter notebooks for experiments
-├── src/
-│   ├── preprocessing/         # Data preprocessing scripts
-│   ├── training/              # Training pipelines
-│   └── evaluation/            # Evaluation metrics and scripts  
-└── streamlit_app/             # Frontend for user interaction
+├── Src/
+│   ├── Preprocessing/         # Data preprocessing scripts
+│   ├── Training/              # Training pipelines
+│   └── Evaluation/            # Evaluation metrics and scripts  
+└── Streamlit/             # Frontend for user interaction
 |   ├── docker/                # Docker-related files
 |   └── python_virtual_env/    # Without docker in local machine
 ```
